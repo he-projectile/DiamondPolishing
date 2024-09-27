@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-1
+Change Component Footprint: Designator=P1 Old Footprint=691311700004 New Footprint=691311700004
+Added Pin To Net: NetName=SPI_ADC_CS Pin=R45-2
+Added Pin To Net: NetName=SPI_ADC_CS Pin=U7-51
+Added Pin To Net: NetName=SPI_ADC_CS Pin=U17-5
+Added Net: Name=SPI_ADC_CS
+Added Pin To Net: NetName=Vin Pin=P1-4
+Added Pin To Net: NetName=Vin Pin=VD2-3
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Pin To Net: NetName=Vin Pin=X2-1
+Added Net: Name=Vin

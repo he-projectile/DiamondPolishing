@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=V_OUT Pin=VD6-1
+Removed Pin From Net: NetName=GND Pin=VD6-3
+Removed Member From Class: ClassName=Sheet1 Member=VD6
+Added Component: Designator=VD4(SMB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=V_OUT Pin=VD4-2
+Added Member To Class: ClassName=Sheet1 Member=Component VD4 *
