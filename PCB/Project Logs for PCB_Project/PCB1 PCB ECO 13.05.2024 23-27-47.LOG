@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=U14 Old Footprint=DGK8_L New Footprint=SO-8
-Change component parameters: Designator = "U14"; Footprint = "SO-8"; UniqueID = "\ZCNJDFDU"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN65HVD485E&fileType=pdf"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Model"; Value = "TP8485E-SR"; VariantName = "[No Variations]"

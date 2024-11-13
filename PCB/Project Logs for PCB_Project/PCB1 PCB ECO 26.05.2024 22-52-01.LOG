@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=VD5 Old Footprint=SMB New Footprint=SMA
-Change Component Comment : Designator=VD5 Old Comment=SS26 New Comment=SS16
-Change component parameters: Designator = "VD5"; Footprint = "SMA"; UniqueID = "\AXLTUHHK"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Model"; Value = "SS16"; VariantName = "[No Variations]"

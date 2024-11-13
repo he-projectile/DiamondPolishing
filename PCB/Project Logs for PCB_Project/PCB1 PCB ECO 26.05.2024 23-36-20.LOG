@@ -1,3 +1,0 @@
-Added Pin To Net: NetName=GND Pin=C5-2
-Change Net Name : Old Net Name=RS-485_RX New Net Name=TERM_RX
-Change Net Name : Old Net Name=RS-485_TX New Net Name=TERM_TX

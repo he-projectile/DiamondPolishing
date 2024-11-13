@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=SUPPLY_INT Pin=R9-2
-Added Pin To Net: NetName=Load_En Pin=R9-2

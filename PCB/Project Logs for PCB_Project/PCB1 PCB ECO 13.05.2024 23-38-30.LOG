@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=5 V Pin=R61-1
-Removed Pin From Net: NetName=5 V Pin=R62-1
-Change Component Footprint: Designator=VD21 Old Footprint=CH1206LB New Footprint=CH0603LB
-Change Component Footprint: Designator=VD22 Old Footprint=CH1206LY New Footprint=CH0603LY
-Added Pin To Net: NetName=3.3 V Pin=R61-1
-Added Pin To Net: NetName=3.3 V Pin=R62-1
-Added Member To Class: ClassName=Sheet4 Member=Component VD24 SMAJ6.0CA

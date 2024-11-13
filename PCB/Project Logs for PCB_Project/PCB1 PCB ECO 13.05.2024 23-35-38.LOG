@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetFU7_2 Pin=X27-2
-Removed Pin From Net: NetName=GND Pin=X27-3
-Added Pin To Net: NetName=GND Pin=X27-2
-Added Pin To Net: NetName=NetFU7_2 Pin=X27-3
