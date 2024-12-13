@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D5 Old Footprint=SMC-DO-214AB New Footprint=SMA
+Added Component: Designator=F?(FUSE_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component F? F1206

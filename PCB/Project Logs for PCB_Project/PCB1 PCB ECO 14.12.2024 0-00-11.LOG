@@ -1,0 +1,119 @@
+Removed Member From Class: ClassName=Sheet1 Member=C21
+Removed Member From Class: ClassName=Sheet4 Member=C68
+Removed Member From Class: ClassName=Sheet4 Member=C69
+Removed Member From Class: ClassName=Sheet4 Member=C70
+Removed Member From Class: ClassName=Sheet4 Member=C71
+Removed Member From Class: ClassName=Sheet4 Member=C72
+Removed Member From Class: ClassName=Sheet4 Member=C73
+Removed Member From Class: ClassName=Sheet4 Member=C74
+Removed Member From Class: ClassName=Sheet4 Member=C75
+Removed Member From Class: ClassName=Sheet4 Member=C76
+Removed Member From Class: ClassName=Sheet4 Member=C77
+Removed Member From Class: ClassName=Sheet4 Member=C78
+Removed Member From Class: ClassName=Sheet4 Member=C79
+Removed Member From Class: ClassName=Sheet1 Member=R34
+Change Component Footprint: Designator=J2 Old Footprint=614004184726 New Footprint=614004184726
+Change Component Footprint: Designator=J3 Old Footprint=614104190121 New Footprint=614104190121
+Change Component Footprint: Designator=P3 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=P8 Old Footprint=691321100003 New Footprint=691321100003
+Change Component Footprint: Designator=P9 Old Footprint=691321100003 New Footprint=691321100003
+Change Component Footprint: Designator=P10 Old Footprint=691321100003 New Footprint=691321100003
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C10 100 ם
+Added Member To Class: ClassName=Sheet1 Member=Component C12 10 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C13 10 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C14 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C15 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C18 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C20 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C23 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C24 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C25 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C26 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C31 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C32 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C34 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C35 4,7 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C37 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C38 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C41 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C43 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C44 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C48 10 ם
+Added Member To Class: ClassName=Sheet4 Member=Component C49 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C50 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C51 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C52 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C53 12
+Added Member To Class: ClassName=Sheet4 Member=Component C54 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C55 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C56 12
+Added Member To Class: ClassName=Sheet4 Member=Component C57 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C58 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C59 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C60 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C65 1ם/2ךֲ
+Added Member To Class: ClassName=Sheet4 Member=Component C66 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component D8 B0520WS
+Added Member To Class: ClassName=Sheet4 Member=Component D13 BLUE
+Added Member To Class: ClassName=Sheet4 Member=Component D15 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet4 Member=Component D16 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet4 Member=Component F2 F1206
+Added Member To Class: ClassName=Sheet4 Member=Component F3 F1206
+Added Member To Class: ClassName=Sheet4 Member=Component F4 0,12 ְ
+Added Member To Class: ClassName=Sheet4 Member=Component F5 0,12 ְ
+Added Member To Class: ClassName=Sheet1 Member=Component P3 15EDGVC-3.5-2P
+Added Member To Class: ClassName=Sheet4 Member=Component P4 15EDGVC-3.5-06P
+Added Member To Class: ClassName=Sheet4 Member=Component P5 15EDGVC-3.5-04P
+Added Member To Class: ClassName=Sheet4 Member=Component P7 15EDGVC-3.5-04P
+Added Member To Class: ClassName=Sheet1 Member=Component R4 430
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10 ך
+Added Member To Class: ClassName=Sheet1 Member=Component R12 4.7 ך
+Added Member To Class: ClassName=Sheet1 Member=Component R14 31,25 ך
+Added Member To Class: ClassName=Sheet1 Member=Component R15 10 ך
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10 ך
+Added Member To Class: ClassName=Sheet1 Member=Component R17 10 ך
+Added Member To Class: ClassName=Sheet1 Member=Component R18 150
+Added Member To Class: ClassName=Sheet2 Member=Component R26 10 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R27 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R28 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R29 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R30 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R31 4,7 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R39 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R41 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R42 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R43 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R45 R1206
+Added Member To Class: ClassName=Sheet4 Member=Component R46 R1206
+Added Member To Class: ClassName=Sheet4 Member=Component R55 12,4 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R57 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R58 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R59 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R62 OD103JE
+Added Member To Class: ClassName=Sheet4 Member=Component R66 49,9
+Added Member To Class: ClassName=Sheet4 Member=Component R69 15 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R71 27
+Added Member To Class: ClassName=Sheet4 Member=Component R72 15 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R73 10
+Added Member To Class: ClassName=Sheet4 Member=Component R74 51 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R78 330 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R79 33 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R80 100
+Added Member To Class: ClassName=Sheet5 Member=Component R81 100
+Added Member To Class: ClassName=Sheet5 Member=Component R82 33 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R83 33 ך
+Added Member To Class: ClassName=Sheet2 Member=Component U7 IP4220CZ6
+Added Member To Class: ClassName=Sheet4 Member=Component U12 TP8485E-SR
+Added Member To Class: ClassName=Sheet4 Member=Component U13 W5500
+Added Member To Class: ClassName=Sheet4 Member=Component U15 ULN2003ADR
+Added Member To Class: ClassName=Sheet5 Member=Component VD11 BAT54S
+Added Member To Class: ClassName=Sheet5 Member=Component VD12 BAT54S
+Added Member To Class: ClassName=Sheet5 Member=Component VD13 BAT54S
+Added Member To Class: ClassName=Sheet5 Member=Component X9 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet5 Member=Component X10 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet5 Member=Component X11 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet5 Member=Component X16 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet5 Member=Component X17 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X18 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X19 DG308-2.54-02P-14-00AH

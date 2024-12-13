@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=OSC_8_OUT Pin=Z1-1
+Removed Pin From Net: NetName=OSC_8_IN Pin=Z1-3
+Removed Member From Class: ClassName=Sheet1 Member=C27
+Removed Member From Class: ClassName=Sheet2 Member=Q1
+Removed Member From Class: ClassName=Sheet1 Member=VD8
+Removed Member From Class: ClassName=Sheet1 Member=X10
+Removed Member From Class: ClassName=Sheet2 Member=Z2
+Change component parameters: Designator = "R2"; Footprint = "ch2512r"; UniqueID = "\VKWHTDUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8001939518"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "CRE2512-FZ-R002E-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,002"; VariantName = "[No Variations]"
+Added Component: Designator=X26(OSC: 3225)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "8026581531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "X322525MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CRYSTAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25 M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC_8_OUT Pin=X26-1
+Added Pin To Net: NetName=OSC_8_IN Pin=X26-3
+Added Member To Class: ClassName=Sheet1 Member=Component C5 220 לך
+Added Member To Class: ClassName=Sheet5 Member=Component FU1 0,12 ְ
+Added Member To Class: ClassName=Sheet1 Member=Component L1 330 לך
+Added Member To Class: ClassName=Sheet1 Member=Component P1 691311700004
+Added Member To Class: ClassName=Sheet2 Member=Component Q2 MMUN2233LT1G
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 KLS7-TS3401- 2,5-180
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 SUPPLY
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM2576HVT-ADJ/NOPB
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 SS36
+Added Member To Class: ClassName=Sheet1 Member=Component X3 *
+Added Member To Class: ClassName=Sheet2 Member=Component X26 XTAL_3215
