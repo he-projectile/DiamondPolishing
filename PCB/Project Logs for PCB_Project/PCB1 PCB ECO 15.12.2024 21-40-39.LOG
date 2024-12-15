@@ -1,0 +1,566 @@
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=R109-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=VD11-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=VD12-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=VD13-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=VD14-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=VD15-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=VD16-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=X13-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=X14-2
+Removed Pin From Net: NetName=ADC_ISO_+3.3 Pin=X15-2
+Removed Member From Class: ClassName=Sheet2 Member=C39
+Removed Member From Class: ClassName=Sheet4 Member=L5
+Removed Member From Class: ClassName=Sheet5 Member=R19
+Removed Member From Class: ClassName=Sheet2 Member=R45
+Removed Member From Class: ClassName=Sheet2 Member=R46
+Removed Member From Class: ClassName=Sheet2 Member=R48
+Removed Member From Class: ClassName=Sheet2 Member=R49
+Removed Member From Class: ClassName=Sheet2 Member=R51
+Removed Member From Class: ClassName=Sheet2 Member=R54
+Removed Member From Class: ClassName=Sheet2 Member=R57
+Removed Member From Class: ClassName=Sheet4 Member=R96
+Removed Member From Class: ClassName=Sheet4 Member=R99
+Removed Member From Class: ClassName=Sheet5 Member=U11
+Change Component Designator: OldDesignator=R85 NewDesignator=R87
+Change Component Designator: OldDesignator=R86 NewDesignator=R88
+Change Component Designator: OldDesignator=R87 NewDesignator=R85
+Change Component Designator: OldDesignator=R88 NewDesignator=R89
+Change Component Designator: OldDesignator=R89 NewDesignator=R86
+Change Component Designator: OldDesignator=R90 NewDesignator=R106
+Change Component Designator: OldDesignator=R91 NewDesignator=R107
+Change Component Designator: OldDesignator=R92 NewDesignator=R108
+Change Component Designator: OldDesignator=R93 NewDesignator=R90
+Change Component Designator: OldDesignator=R94 NewDesignator=R109
+Change Component Designator: OldDesignator=R95 NewDesignator=R91
+Change Component Designator: OldDesignator=R96 NewDesignator=R92
+Change Component Designator: OldDesignator=R97 NewDesignator=R93
+Change Component Designator: OldDesignator=R98 NewDesignator=R94
+Change Component Designator: OldDesignator=R99 NewDesignator=R95
+Change Component Designator: OldDesignator=R100 NewDesignator=R96
+Change Component Designator: OldDesignator=R101 NewDesignator=R97
+Change Component Designator: OldDesignator=R102 NewDesignator=R98
+Change Component Designator: OldDesignator=R103 NewDesignator=R99
+Change Component Designator: OldDesignator=R104 NewDesignator=R100
+Change Component Designator: OldDesignator=R105 NewDesignator=R101
+Change Component Designator: OldDesignator=R106 NewDesignator=R102
+Change Component Designator: OldDesignator=R107 NewDesignator=R103
+Change Component Designator: OldDesignator=R108 NewDesignator=R104
+Change Component Designator: OldDesignator=R109 NewDesignator=R105
+Change Component Designator: OldDesignator=U21 NewDesignator=U23
+Change Component Designator: OldDesignator=U22 NewDesignator=U21
+Change Component Designator: OldDesignator=X9 NewDesignator=X12
+Change Component Designator: OldDesignator=X10 NewDesignator=X13
+Change Component Designator: OldDesignator=X13 NewDesignator=X16
+Change Component Designator: OldDesignator=X14 NewDesignator=X17
+Change Component Designator: OldDesignator=X15 NewDesignator=X18
+Added Component: Designator=U12(ONSC-SOIC-8-751-07_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM358-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751-07.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-8-751-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AK, 02/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM258DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U13(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN65HVD3082E&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "TP8485E-SR"; VariantName = "[No Variations]"
+Added Component: Designator=U17(DBV0006A_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-178-AB*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS2553&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Current(Max)(A)"; Value = "1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Limit(A)"; Value = "0.075 to 1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Limit Accuracy @ 1A"; Value = "+/-7.5% (925mA min / 1075mA max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Limit Topology"; Value = "Constant-Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVS841E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Enable"; Value = "Active High"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Switches"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "6-Pin Plastic Small-Outline Package, 2.9 x 1.6 mm Body, 0.95 mm Pitch, 2.8 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DBV0006A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revK, Mar-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS2553DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rDS(on) per FET(Typ)(mOhms)"; Value = "100/DRV, 85/DBV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "6.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "2.5"; VariantName = "[No Variations]"
+Added Component: Designator=U19(ADI-RW-16_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/ADuM5401_5402_5403_5404.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/SOIC_WIDE%20%28RW%29/RW_16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Reference Circuit:http://www.analog.com/en/interface-isolation/digital-isolators/adum5401/products/product.html#product-recommendations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Rating (kVrms)"; Value = "2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Data Rate"; Value = "25Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temp (degreesC)"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Standard Small Outline Package, Body 10.3 x 7.5 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RW-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "032707-B, 03/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADUM5401CRWZ-RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Prop Delay"; Value = "60ns"; VariantName = "[No Variations]"
+Added Component: Designator=U22(RU-16_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-153-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/AD7798_7799.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/36244347913743854010197452789RU16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Product URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.analog.com/en/analog-to-digital-converters/ad-converters/ad7798/products/product.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev.A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "AD7798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Ser, SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Lead Thin Shrink Small Outline Package [TSSOP]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RU-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Nov-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AD7798BRUZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution (Bits)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throughput Rate (SPS)"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=X9(CNC_PCB_SOCKET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X10(CNC_PCB_SOCKET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X11(CNC_PCB_SOCKET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X14(CNC_PCB_SOCKET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X15(CNC_PCB_SOCKET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X19(CNC_PCB_SOCKET)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=R105-1
+Added Pin To Net: NetName=NetD9_A Pin=U12-1
+Added Pin To Net: NetName=DAC_2 Pin=U12-2
+Added Pin To Net: NetName=NetR46_1 Pin=U12-3
+Added Pin To Net: NetName=12 V Pin=U12-4
+Added Pin To Net: NetName=NetR47_1 Pin=U12-5
+Added Pin To Net: NetName=0_10_OUT_3 Pin=U12-6
+Added Pin To Net: NetName=NetD10_A Pin=U12-7
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=UART_4_TX Pin=U13-1
+Added Pin To Net: NetName=MODBUS_DERE Pin=U13-2
+Added Pin To Net: NetName=MODBUS_DERE Pin=U13-3
+Added Pin To Net: NetName=UART_4_RX Pin=U13-4
+Added Pin To Net: NetName=GND Pin=U13-5
+Added Pin To Net: NetName=NetD15_A Pin=U13-6
+Added Pin To Net: NetName=NetD16_K Pin=U13-7
+Added Pin To Net: NetName=5 V Pin=U13-8
+Added Pin To Net: NetName=5 V Pin=U17-1
+Added Pin To Net: NetName=GND Pin=U17-2
+Added Pin To Net: NetName=NetC61_1 Pin=U17-3
+Added Pin To Net: NetName=NetC61_1 Pin=U17-4
+Added Pin To Net: NetName=NetR81_1 Pin=U17-5
+Added Pin To Net: NetName=USB_SUP Pin=U17-6
+Added Pin To Net: NetName=5 V Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U19-2
+Added Pin To Net: NetName=SPI_2_SCK Pin=U19-3
+Added Pin To Net: NetName=SPI_2_MOSI Pin=U19-4
+Added Pin To Net: NetName=SPI_ADC_CS Pin=U19-5
+Added Pin To Net: NetName=SPI_2_MISO Pin=U19-6
+Added Pin To Net: NetName=GND Pin=U19-8
+Added Pin To Net: NetName=ADC_ISO_GND Pin=U19-9
+Added Pin To Net: NetName=ADC_ISO_+5 Pin=U19-10
+Added Pin To Net: NetName=ADC_ISO_MISO Pin=U19-11
+Added Pin To Net: NetName=ADC_ISO_CS Pin=U19-12
+Added Pin To Net: NetName=ADC_ISO_MOSI Pin=U19-13
+Added Pin To Net: NetName=ADC_ISO_SCK Pin=U19-14
+Added Pin To Net: NetName=ADC_ISO_GND Pin=U19-15
+Added Pin To Net: NetName=ADC_ISO_+5 Pin=U19-16
+Added Pin To Net: NetName=ADC_ISO_SCK Pin=U22-1
+Added Pin To Net: NetName=ADC_ISO_CS Pin=U22-2
+Added Pin To Net: NetName=ADC_ISO_AIN3+ Pin=U22-3
+Added Pin To Net: NetName=ADC_ISO_AIN3- Pin=U22-4
+Added Pin To Net: NetName=ADC_ISO_AIN1+ Pin=U22-5
+Added Pin To Net: NetName=ADC_ISO_AIN1- Pin=U22-6
+Added Pin To Net: NetName=ADC_ISO_AIN2+ Pin=U22-7
+Added Pin To Net: NetName=ADC_ISO_AIN2- Pin=U22-8
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=U22-9
+Added Pin To Net: NetName=ADC_ISO_GND Pin=U22-10
+Added Pin To Net: NetName=ADC_ISO_GND Pin=U22-12
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=U22-13
+Added Pin To Net: NetName=ADC_ISO_+5 Pin=U22-14
+Added Pin To Net: NetName=ADC_ISO_MISO Pin=U22-15
+Added Pin To Net: NetName=ADC_ISO_MOSI Pin=U22-16
+Added Pin To Net: NetName=12 V Pin=X9-17
+Added Pin To Net: NetName=12 V Pin=X9-17
+Added Pin To Net: NetName=GND Pin=X9-18
+Added Pin To Net: NetName=GND Pin=X9-18
+Added Pin To Net: NetName=12 V Pin=X10-17
+Added Pin To Net: NetName=12 V Pin=X10-17
+Added Pin To Net: NetName=GND Pin=X10-18
+Added Pin To Net: NetName=GND Pin=X10-18
+Added Pin To Net: NetName=12 V Pin=X11-17
+Added Pin To Net: NetName=12 V Pin=X11-17
+Added Pin To Net: NetName=GND Pin=X11-18
+Added Pin To Net: NetName=GND Pin=X11-18
+Added Pin To Net: NetName=12 V Pin=X14-17
+Added Pin To Net: NetName=12 V Pin=X14-17
+Added Pin To Net: NetName=GND Pin=X14-18
+Added Pin To Net: NetName=GND Pin=X14-18
+Added Pin To Net: NetName=12 V Pin=X15-17
+Added Pin To Net: NetName=12 V Pin=X15-17
+Added Pin To Net: NetName=GND Pin=X15-18
+Added Pin To Net: NetName=GND Pin=X15-18
+Added Pin To Net: NetName=12 V Pin=X19-17
+Added Pin To Net: NetName=12 V Pin=X19-17
+Added Pin To Net: NetName=GND Pin=X19-18
+Added Pin To Net: NetName=GND Pin=X19-18
+Change Net Name : Old Net Name=NetR87_2 New Net Name=NetR85_2
+Change Net Name : Old Net Name=NetR89_1 New Net Name=NetR86_1
+Change Net Name : Old Net Name=NetR93_1 New Net Name=NetR90_1
+Change Net Name : Old Net Name=NetR93_2 New Net Name=NetR90_2
+Change Net Name : Old Net Name=NetR95_1 New Net Name=NetR91_1
+Change Net Name : Old Net Name=NetR97_2 New Net Name=NetR93_2
+Change Net Name : Old Net Name=NetR99_1 New Net Name=NetR95_1
+Change Net Name : Old Net Name=NetR101_2 New Net Name=NetR97_2
+Change Net Name : Old Net Name=NetR103_1 New Net Name=NetR99_1
+Added Pin To Net: NetName=EXT_MCU_CAN_01_N Pin=U20-6
+Added Pin To Net: NetName=EXT_MCU_CAN_01_N Pin=X9-3
+Added Net: Name=EXT_MCU_CAN_01_N
+Added Pin To Net: NetName=EXT_MCU_CAN_01_P Pin=U20-7
+Added Pin To Net: NetName=EXT_MCU_CAN_01_P Pin=X9-1
+Added Net: Name=EXT_MCU_CAN_01_P
+Added Pin To Net: NetName=EXT_MCU_CAN_12_N Pin=X9-4
+Added Pin To Net: NetName=EXT_MCU_CAN_12_N Pin=X10-3
+Added Net: Name=EXT_MCU_CAN_12_N
+Added Pin To Net: NetName=EXT_MCU_CAN_12_P Pin=X9-2
+Added Pin To Net: NetName=EXT_MCU_CAN_12_P Pin=X10-1
+Added Net: Name=EXT_MCU_CAN_12_P
+Added Pin To Net: NetName=EXT_MCU_CAN_23_N Pin=X10-4
+Added Pin To Net: NetName=EXT_MCU_CAN_23_N Pin=X11-3
+Added Net: Name=EXT_MCU_CAN_23_N
+Added Pin To Net: NetName=EXT_MCU_CAN_23_P Pin=X10-2
+Added Pin To Net: NetName=EXT_MCU_CAN_23_P Pin=X11-1
+Added Net: Name=EXT_MCU_CAN_23_P
+Added Pin To Net: NetName=EXT_MCU_CAN_34_N Pin=X11-4
+Added Pin To Net: NetName=EXT_MCU_CAN_34_N Pin=X14-3
+Added Net: Name=EXT_MCU_CAN_34_N
+Added Pin To Net: NetName=EXT_MCU_CAN_34_P Pin=X11-2
+Added Pin To Net: NetName=EXT_MCU_CAN_34_P Pin=X14-1
+Added Net: Name=EXT_MCU_CAN_34_P
+Added Pin To Net: NetName=EXT_MCU_CAN_45_N Pin=X14-4
+Added Pin To Net: NetName=EXT_MCU_CAN_45_N Pin=X15-3
+Added Net: Name=EXT_MCU_CAN_45_N
+Added Pin To Net: NetName=EXT_MCU_CAN_45_P Pin=X14-2
+Added Pin To Net: NetName=EXT_MCU_CAN_45_P Pin=X15-1
+Added Net: Name=EXT_MCU_CAN_45_P
+Added Pin To Net: NetName=EXT_MCU_CAN_56_N Pin=X15-4
+Added Pin To Net: NetName=EXT_MCU_CAN_56_N Pin=X19-3
+Added Net: Name=EXT_MCU_CAN_56_N
+Added Pin To Net: NetName=EXT_MCU_CAN_56_P Pin=X15-2
+Added Pin To Net: NetName=EXT_MCU_CAN_56_P Pin=X19-1
+Added Net: Name=EXT_MCU_CAN_56_P
+Added Pin To Net: NetName=EXT_MCU_CAN_67_N Pin=R106-1
+Added Pin To Net: NetName=EXT_MCU_CAN_67_N Pin=X19-4
+Added Net: Name=EXT_MCU_CAN_67_N
+Added Pin To Net: NetName=EXT_MCU_CAN_67_P Pin=R106-2
+Added Pin To Net: NetName=EXT_MCU_CAN_67_P Pin=X19-2
+Added Net: Name=EXT_MCU_CAN_67_P
+Added Pin To Net: NetName=EXT_MCU_COCK_01_N Pin=U23-12
+Added Pin To Net: NetName=EXT_MCU_COCK_01_N Pin=X9-15
+Added Net: Name=EXT_MCU_COCK_01_N
+Added Pin To Net: NetName=EXT_MCU_COCK_01_P Pin=U23-11
+Added Pin To Net: NetName=EXT_MCU_COCK_01_P Pin=X9-13
+Added Net: Name=EXT_MCU_COCK_01_P
+Added Pin To Net: NetName=EXT_MCU_COCK_12_N Pin=X9-16
+Added Pin To Net: NetName=EXT_MCU_COCK_12_N Pin=X10-15
+Added Net: Name=EXT_MCU_COCK_12_N
+Added Pin To Net: NetName=EXT_MCU_COCK_12_P Pin=X9-14
+Added Pin To Net: NetName=EXT_MCU_COCK_12_P Pin=X10-13
+Added Net: Name=EXT_MCU_COCK_12_P
+Added Pin To Net: NetName=EXT_MCU_COCK_23_N Pin=X10-16
+Added Pin To Net: NetName=EXT_MCU_COCK_23_N Pin=X11-15
+Added Net: Name=EXT_MCU_COCK_23_N
+Added Pin To Net: NetName=EXT_MCU_COCK_23_P Pin=X10-14
+Added Pin To Net: NetName=EXT_MCU_COCK_23_P Pin=X11-13
+Added Net: Name=EXT_MCU_COCK_23_P
+Added Pin To Net: NetName=EXT_MCU_COCK_34_N Pin=X11-16
+Added Pin To Net: NetName=EXT_MCU_COCK_34_N Pin=X14-15
+Added Net: Name=EXT_MCU_COCK_34_N
+Added Pin To Net: NetName=EXT_MCU_COCK_34_P Pin=X11-14
+Added Pin To Net: NetName=EXT_MCU_COCK_34_P Pin=X14-13
+Added Net: Name=EXT_MCU_COCK_34_P
+Added Pin To Net: NetName=EXT_MCU_COCK_45_N Pin=X14-16
+Added Pin To Net: NetName=EXT_MCU_COCK_45_N Pin=X15-15
+Added Net: Name=EXT_MCU_COCK_45_N
+Added Pin To Net: NetName=EXT_MCU_COCK_45_P Pin=X14-14
+Added Pin To Net: NetName=EXT_MCU_COCK_45_P Pin=X15-13
+Added Net: Name=EXT_MCU_COCK_45_P
+Added Pin To Net: NetName=EXT_MCU_COCK_56_N Pin=X15-16
+Added Pin To Net: NetName=EXT_MCU_COCK_56_N Pin=X19-15
+Added Net: Name=EXT_MCU_COCK_56_N
+Added Pin To Net: NetName=EXT_MCU_COCK_56_P Pin=X15-14
+Added Pin To Net: NetName=EXT_MCU_COCK_56_P Pin=X19-13
+Added Net: Name=EXT_MCU_COCK_56_P
+Added Pin To Net: NetName=EXT_MCU_COCK_67_N Pin=R109-1
+Added Pin To Net: NetName=EXT_MCU_COCK_67_N Pin=X19-16
+Added Net: Name=EXT_MCU_COCK_67_N
+Added Pin To Net: NetName=EXT_MCU_COCK_67_P Pin=R109-2
+Added Pin To Net: NetName=EXT_MCU_COCK_67_P Pin=X19-14
+Added Net: Name=EXT_MCU_COCK_67_P
+Added Pin To Net: NetName=EXT_MCU_STOP_01_N Pin=U23-16
+Added Pin To Net: NetName=EXT_MCU_STOP_01_N Pin=X9-7
+Added Net: Name=EXT_MCU_STOP_01_N
+Added Pin To Net: NetName=EXT_MCU_STOP_01_P Pin=U23-15
+Added Pin To Net: NetName=EXT_MCU_STOP_01_P Pin=X9-5
+Added Net: Name=EXT_MCU_STOP_01_P
+Added Pin To Net: NetName=EXT_MCU_STOP_12_N Pin=X9-8
+Added Pin To Net: NetName=EXT_MCU_STOP_12_N Pin=X10-7
+Added Net: Name=EXT_MCU_STOP_12_N
+Added Pin To Net: NetName=EXT_MCU_STOP_12_P Pin=X9-6
+Added Pin To Net: NetName=EXT_MCU_STOP_12_P Pin=X10-5
+Added Net: Name=EXT_MCU_STOP_12_P
+Added Pin To Net: NetName=EXT_MCU_STOP_23_N Pin=X10-8
+Added Pin To Net: NetName=EXT_MCU_STOP_23_N Pin=X11-7
+Added Net: Name=EXT_MCU_STOP_23_N
+Added Pin To Net: NetName=EXT_MCU_STOP_23_P Pin=X10-6
+Added Pin To Net: NetName=EXT_MCU_STOP_23_P Pin=X11-5
+Added Net: Name=EXT_MCU_STOP_23_P
+Added Pin To Net: NetName=EXT_MCU_STOP_34_N Pin=X11-8
+Added Pin To Net: NetName=EXT_MCU_STOP_34_N Pin=X14-7
+Added Net: Name=EXT_MCU_STOP_34_N
+Added Pin To Net: NetName=EXT_MCU_STOP_34_P Pin=X11-6
+Added Pin To Net: NetName=EXT_MCU_STOP_34_P Pin=X14-5
+Added Net: Name=EXT_MCU_STOP_34_P
+Added Pin To Net: NetName=EXT_MCU_STOP_45_N Pin=X14-8
+Added Pin To Net: NetName=EXT_MCU_STOP_45_N Pin=X15-7
+Added Net: Name=EXT_MCU_STOP_45_N
+Added Pin To Net: NetName=EXT_MCU_STOP_45_P Pin=X14-6
+Added Pin To Net: NetName=EXT_MCU_STOP_45_P Pin=X15-5
+Added Net: Name=EXT_MCU_STOP_45_P
+Added Pin To Net: NetName=EXT_MCU_STOP_56_N Pin=X15-8
+Added Pin To Net: NetName=EXT_MCU_STOP_56_N Pin=X19-7
+Added Net: Name=EXT_MCU_STOP_56_N
+Added Pin To Net: NetName=EXT_MCU_STOP_56_P Pin=X15-6
+Added Pin To Net: NetName=EXT_MCU_STOP_56_P Pin=X19-5
+Added Net: Name=EXT_MCU_STOP_56_P
+Added Pin To Net: NetName=EXT_MCU_STOP_67_N Pin=R107-1
+Added Pin To Net: NetName=EXT_MCU_STOP_67_N Pin=X19-8
+Added Net: Name=EXT_MCU_STOP_67_N
+Added Pin To Net: NetName=EXT_MCU_STOP_67_P Pin=R107-2
+Added Pin To Net: NetName=EXT_MCU_STOP_67_P Pin=X19-6
+Added Net: Name=EXT_MCU_STOP_67_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_01_N Pin=U23-13
+Added Pin To Net: NetName=EXT_MCU_SYNC_01_N Pin=X9-11
+Added Net: Name=EXT_MCU_SYNC_01_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_01_P Pin=U23-14
+Added Pin To Net: NetName=EXT_MCU_SYNC_01_P Pin=X9-9
+Added Net: Name=EXT_MCU_SYNC_01_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_12_N Pin=X9-12
+Added Pin To Net: NetName=EXT_MCU_SYNC_12_N Pin=X10-11
+Added Net: Name=EXT_MCU_SYNC_12_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_12_P Pin=X9-10
+Added Pin To Net: NetName=EXT_MCU_SYNC_12_P Pin=X10-9
+Added Net: Name=EXT_MCU_SYNC_12_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_23_N Pin=X10-12
+Added Pin To Net: NetName=EXT_MCU_SYNC_23_N Pin=X11-11
+Added Net: Name=EXT_MCU_SYNC_23_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_23_P Pin=X10-10
+Added Pin To Net: NetName=EXT_MCU_SYNC_23_P Pin=X11-9
+Added Net: Name=EXT_MCU_SYNC_23_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_34_N Pin=X11-12
+Added Pin To Net: NetName=EXT_MCU_SYNC_34_N Pin=X14-11
+Added Net: Name=EXT_MCU_SYNC_34_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_34_P Pin=X11-10
+Added Pin To Net: NetName=EXT_MCU_SYNC_34_P Pin=X14-9
+Added Net: Name=EXT_MCU_SYNC_34_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_45_N Pin=X14-12
+Added Pin To Net: NetName=EXT_MCU_SYNC_45_N Pin=X15-11
+Added Net: Name=EXT_MCU_SYNC_45_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_45_P Pin=X14-10
+Added Pin To Net: NetName=EXT_MCU_SYNC_45_P Pin=X15-9
+Added Net: Name=EXT_MCU_SYNC_45_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_56_N Pin=X15-12
+Added Pin To Net: NetName=EXT_MCU_SYNC_56_N Pin=X19-11
+Added Net: Name=EXT_MCU_SYNC_56_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_56_P Pin=X15-10
+Added Pin To Net: NetName=EXT_MCU_SYNC_56_P Pin=X19-9
+Added Net: Name=EXT_MCU_SYNC_56_P
+Added Pin To Net: NetName=EXT_MCU_SYNC_67_N Pin=R108-1
+Added Pin To Net: NetName=EXT_MCU_SYNC_67_N Pin=X19-12
+Added Net: Name=EXT_MCU_SYNC_67_N
+Added Pin To Net: NetName=EXT_MCU_SYNC_67_P Pin=R108-2
+Added Pin To Net: NetName=EXT_MCU_SYNC_67_P Pin=X19-10
+Added Net: Name=EXT_MCU_SYNC_67_P
+Added Pin To Net: NetName=NetR101_2 Pin=R101-2
+Added Pin To Net: NetName=NetR101_2 Pin=R102-2
+Added Pin To Net: NetName=NetR101_2 Pin=R105-2
+Added Net: Name=NetR101_2
+Added Pin To Net: NetName=NetVD11_2 Pin=VD11-2
+Added Pin To Net: NetName=NetVD11_2 Pin=VD12-2
+Added Pin To Net: NetName=NetVD11_2 Pin=X16-2
+Added Net: Name=NetVD11_2
+Added Pin To Net: NetName=NetVD13_2 Pin=VD13-2
+Added Pin To Net: NetName=NetVD13_2 Pin=VD14-2
+Added Pin To Net: NetName=NetVD13_2 Pin=X17-2
+Added Net: Name=NetVD13_2
+Added Pin To Net: NetName=NetVD15_2 Pin=VD15-2
+Added Pin To Net: NetName=NetVD15_2 Pin=VD16-2
+Added Pin To Net: NetName=NetVD15_2 Pin=X18-2
+Added Net: Name=NetVD15_2
+Added Differential Pair: Name=EXT_MCU_CAN_01
+Added Differential Pair: Name=EXT_MCU_CAN_12
+Added Differential Pair: Name=EXT_MCU_CAN_23
+Added Differential Pair: Name=EXT_MCU_CAN_34
+Added Differential Pair: Name=EXT_MCU_CAN_45
+Added Differential Pair: Name=EXT_MCU_CAN_56
+Added Differential Pair: Name=EXT_MCU_CAN_67
+Added Differential Pair: Name=EXT_MCU_COCK_01
+Added Differential Pair: Name=EXT_MCU_COCK_12
+Added Differential Pair: Name=EXT_MCU_COCK_23
+Added Differential Pair: Name=EXT_MCU_COCK_34
+Added Differential Pair: Name=EXT_MCU_COCK_45
+Added Differential Pair: Name=EXT_MCU_COCK_56
+Added Differential Pair: Name=EXT_MCU_COCK_67
+Added Differential Pair: Name=EXT_MCU_STOP_01
+Added Differential Pair: Name=EXT_MCU_STOP_12
+Added Differential Pair: Name=EXT_MCU_STOP_23
+Added Differential Pair: Name=EXT_MCU_STOP_34
+Added Differential Pair: Name=EXT_MCU_STOP_45
+Added Differential Pair: Name=EXT_MCU_STOP_56
+Added Differential Pair: Name=EXT_MCU_STOP_67
+Added Differential Pair: Name=EXT_MCU_SYNC_01
+Added Differential Pair: Name=EXT_MCU_SYNC_12
+Added Differential Pair: Name=EXT_MCU_SYNC_23
+Added Differential Pair: Name=EXT_MCU_SYNC_34
+Added Differential Pair: Name=EXT_MCU_SYNC_45
+Added Differential Pair: Name=EXT_MCU_SYNC_56
+Added Differential Pair: Name=EXT_MCU_SYNC_67
+Added Member To Class: ClassName=Sheet2 Member=Component C25 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C29 10 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C30 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C32 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C33 12
+Added Member To Class: ClassName=Sheet2 Member=Component C35 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C38 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C40 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C41 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C43 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C45 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C46 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C48 4,7 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C50 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C51 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C53 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C54 12
+Added Member To Class: ClassName=Sheet4 Member=Component C56 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C58 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C59 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C61 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C62 10 ם
+Added Member To Class: ClassName=Sheet4 Member=Component C64 6.8 ם
+Added Member To Class: ClassName=Sheet4 Member=Component C66 1ם/2ךֲ
+Added Member To Class: ClassName=Sheet4 Member=Component C67 10 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C69 10 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C71 10 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C72 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C73 10 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C74 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C75 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C76 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C77 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C79 10 ם
+Added Member To Class: ClassName=Sheet5 Member=Component C80 0,47 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C81 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C82 0,1 לך
+Added Member To Class: ClassName=Sheet5 Member=Component C83 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component D9 B0520WS
+Added Member To Class: ClassName=Sheet4 Member=Component D10 B0520WS
+Added Member To Class: ClassName=Sheet4 Member=Component D12 BLUE
+Added Member To Class: ClassName=Sheet4 Member=Component D13 YELLOW
+Added Member To Class: ClassName=Sheet4 Member=Component D15 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet4 Member=Component D17 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet4 Member=Component D18 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet4 Member=Component D19 GREEN
+Added Member To Class: ClassName=Sheet4 Member=Component L6 120 ־ל
+Added Member To Class: ClassName=Sheet2 Member=Component R19 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R20 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R21 100
+Added Member To Class: ClassName=Sheet2 Member=Component R26 150
+Added Member To Class: ClassName=Sheet2 Member=Component R29 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R34 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R37 150
+Added Member To Class: ClassName=Sheet2 Member=Component R38 150
+Added Member To Class: ClassName=Sheet2 Member=Component R39 150
+Added Member To Class: ClassName=Sheet2 Member=Component R40 10 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R41 10 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R42 100
+Added Member To Class: ClassName=Sheet4 Member=Component R44 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R47 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R50 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R52 R1206
+Added Member To Class: ClassName=Sheet4 Member=Component R55 100
+Added Member To Class: ClassName=Sheet4 Member=Component R60 1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R62 12,4 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R63 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R64 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R65 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R66 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R67 5,1 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R68 OD103JE
+Added Member To Class: ClassName=Sheet4 Member=Component R70 1 ּ
+Added Member To Class: ClassName=Sheet4 Member=Component R72 49,9
+Added Member To Class: ClassName=Sheet4 Member=Component R75 49,9
+Added Member To Class: ClassName=Sheet4 Member=Component R80 10
+Added Member To Class: ClassName=Sheet4 Member=Component R83 330
+Added Member To Class: ClassName=Sheet5 Member=Component R85 10 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R86 330 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R87 10 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R88 10 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R89 10 ך
+Added Member To Class: ClassName=Sheet5 Member=Component R90 100
+Added Member To Class: ClassName=Sheet5 Member=Component R106 100
+Added Member To Class: ClassName=Sheet5 Member=Component R107 100
+Added Member To Class: ClassName=Sheet5 Member=Component R108 100
+Added Member To Class: ClassName=Sheet5 Member=Component R109 100
+Added Member To Class: ClassName=Sheet2 Member=Component SW1 KLS7-TS3401- 2,5-180
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 KLS7-TS3401- 2,5-180
+Added Member To Class: ClassName=Sheet2 Member=Component U10 REF3020AIDBZR
+Added Member To Class: ClassName=Sheet4 Member=Component U12 LM258DR2G
+Added Member To Class: ClassName=Sheet4 Member=Component U13 TP8485E-SR
+Added Member To Class: ClassName=Sheet4 Member=Component U15 SN65HVD251DR
+Added Member To Class: ClassName=Sheet4 Member=Component U17 TPS2553DBVR
+Added Member To Class: ClassName=Sheet5 Member=Component U19 ADUM5401CRWZ-RL
+Added Member To Class: ClassName=Sheet5 Member=Component U22 AD7798BRUZ
+Added Member To Class: ClassName=Sheet5 Member=Component U23 DS90LV047ATMTC/NOPB
+Added Member To Class: ClassName=Sheet5 Member=Component X11 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet5 Member=Component X12 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X13 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X14 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet5 Member=Component X16 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X17 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X18 DG308-2.54-02P-14-00AH
+Added Member To Class: ClassName=Sheet5 Member=Component X19 CNC_PCB_SOCKET

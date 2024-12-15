@@ -1,0 +1,217 @@
+Removed Pin From Net: NetName=3.3 V Pin=C22-1
+Removed Pin From Net: NetName=3.3 V Pin=C26-1
+Removed Pin From Net: NetName=3.3 V Pin=C30-1
+Removed Pin From Net: NetName=3.3 V Pin=C34-1
+Removed Pin From Net: NetName=3.3 V Pin=C35-1
+Removed Pin From Net: NetName=3.3 V Pin=C36-1
+Removed Pin From Net: NetName=UART_8_TX Pin=D10-K
+Removed Pin From Net: NetName=UART_8_RX Pin=D11-K
+Removed Pin From Net: NetName=I2C_2_SCL Pin=R28-1
+Removed Pin From Net: NetName=I2C_2_SDA Pin=R29-1
+Removed Pin From Net: NetName=UART_8_RX Pin=R53-2
+Removed Pin From Net: NetName=3.3 V Pin=SW2-1
+Removed Pin From Net: NetName=I2C_2_SDA Pin=U2-4
+Removed Pin From Net: NetName=I2C_2_SCL Pin=U2-5
+Removed Pin From Net: NetName=3.3 V Pin=U9-21
+Removed Pin From Net: NetName=3.3 V Pin=U9-22
+Removed Pin From Net: NetName=EM_STOP_PIN Pin=U9-24
+Removed Pin From Net: NetName=BUZZ_EN Pin=U9-25
+Removed Pin From Net: NetName=EXT_MCU_CS_1 Pin=U9-83
+Removed Pin From Net: NetName=EXT_MCU_CS_0 Pin=U9-84
+Removed Pin From Net: NetName=TERM_TX Pin=U9-92
+Removed Pin From Net: NetName=TERM_RX Pin=U9-93
+Removed Pin From Net: NetName=MODBUS_DERE Pin=U9-96
+Removed Pin From Net: NetName=UART_8_RX Pin=U9-97
+Removed Pin From Net: NetName=UART_8_TX Pin=U9-98
+Change component parameters: Designator = "J2"; Footprint = "614004184726"; UniqueID = "\TGCSPVMZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1G?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole, Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "71472439"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "614104190121"; UniqueID = "\XRIWCOJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1G?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Horizontal, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "71472442"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Component: Designator=D19(UHD1110-FKA-CL1A13r3q1BBQFMF3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UHD1110-FKA-CL1A13r3q1BBQFMF3"; VariantName = "[No Variations]"
+Added Component: Designator=D20(150080M153000)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.mouser.de/ProductDetail/Wurth-Elektronik/150080M153000?qs=5aG0NVq1C4wI5cZ2wabu5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150080M153000"; VariantName = "[No Variations]"
+Added Component: Designator=L5(res_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "WCM2012F2SF-900T04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Added Component: Designator=L6(res_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "WCM2012F2SF-900T04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R94(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R95(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R96(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=U8(W16MK+1_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P1030-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.maxim-ic.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheets.maxim-ic.com/en/ds/DS3231M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://pdfserv.maxim-ic.com/package_dwgs/21-0042.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev 3, Dec-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small-Outline IC, Wide (0.3in), 1.27 mm Pitch, SOIC (W), Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "W16MK+1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revD, 2010"; VariantName = "[No Variations]"
+Added Component: Designator=U21(DBZ0003A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "9001599872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=REF3020&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds108a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Samples URL:http://www.ti.com/product/ref3020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "REF3020AIDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=L5-2
+Added Pin To Net: NetName=3.3 V Pin=L6-1
+Added Pin To Net: NetName=I2C_2_SDA Pin=R94-1
+Added Pin To Net: NetName=3.3 V Pin=R94-2
+Added Pin To Net: NetName=I2C_2_SCL Pin=R95-1
+Added Pin To Net: NetName=3.3 V Pin=R95-2
+Added Pin To Net: NetName=3.3 V Pin=R96-2
+Added Pin To Net: NetName=3.3 V Pin=U8-2
+Added Pin To Net: NetName=NetR26_2 Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-13
+Added Pin To Net: NetName=NetBT1_2 Pin=U8-14
+Added Pin To Net: NetName=I2C_2_SDA Pin=U8-15
+Added Pin To Net: NetName=I2C_2_SCL Pin=U8-16
+Added Pin To Net: NetName=BUZZ_EN Pin=U9-18
+Added Pin To Net: NetName=UART_8_TX Pin=U9-23
+Added Pin To Net: NetName=UART_8_RX Pin=U9-24
+Added Pin To Net: NetName=MODBUS_DERE Pin=U9-25
+Added Pin To Net: NetName=EM_STOP_PIN Pin=U9-26
+Added Pin To Net: NetName=TERM_TX Pin=U9-68
+Added Pin To Net: NetName=TERM_RX Pin=U9-69
+Added Pin To Net: NetName=GND Pin=U21-3
+Change Net Name : Old Net Name=EXT_MCU_CS_2 New Net Name=USBR_BTN
+Change Net Name : Old Net Name=EXT_MCU_CS_3 New Net Name=LED_R
+Change Net Name : Old Net Name=EXT_MCU_CS_4 New Net Name=LED_G
+Change Net Name : Old Net Name=EXT_MCU_CS_5 New Net Name=LED_B
+Change Net Name : Old Net Name=EXT_MCU_INT New Net Name=CAN_1_RX
+Change Net Name : Old Net Name=EXT_MCU_STOP New Net Name=CAN_1_TX
+Change Net Name : Old Net Name=EXT_MCU_SYNC New Net Name=EXT_MCU_COCK
+Change Net Name : Old Net Name=TERM_RX New Net Name=USART_1_RX
+Change Net Name : Old Net Name=TERM_TX New Net Name=USART_1_TX
+Added Pin To Net: NetName=CAN_2_RX Pin=D13-K
+Added Pin To Net: NetName=CAN_2_RX Pin=U9-91
+Added Pin To Net: NetName=CAN_2_RX Pin=U14-4
+Added Net: Name=CAN_2_RX
+Added Pin To Net: NetName=CAN_2_TX Pin=D12-K
+Added Pin To Net: NetName=CAN_2_TX Pin=U9-90
+Added Pin To Net: NetName=CAN_2_TX Pin=U14-1
+Added Net: Name=CAN_2_TX
+Added Net: Name=EXT_MCU_CS_2
+Added Net: Name=EXT_MCU_CS_3
+Added Net: Name=EXT_MCU_CS_4
+Added Net: Name=EXT_MCU_CS_5
+Added Pin To Net: NetName=EXT_MCU_INT Pin=U9-80
+Added Net: Name=EXT_MCU_INT
+Added Net: Name=EXT_MCU_MISO
+Added Net: Name=EXT_MCU_MOSI
+Added Net: Name=EXT_MCU_SCK
+Added Pin To Net: NetName=EXT_MCU_STOP Pin=U9-79
+Added Net: Name=EXT_MCU_STOP
+Added Pin To Net: NetName=EXT_MCU_SYNC Pin=U9-78
+Added Net: Name=EXT_MCU_SYNC
+Added Pin To Net: NetName=I2C_1_SCL Pin=R28-1
+Added Pin To Net: NetName=I2C_1_SCL Pin=U2-5
+Added Pin To Net: NetName=I2C_1_SCL Pin=U9-95
+Added Net: Name=I2C_1_SCL
+Added Pin To Net: NetName=I2C_1_SDA Pin=R29-1
+Added Pin To Net: NetName=I2C_1_SDA Pin=U2-4
+Added Pin To Net: NetName=I2C_1_SDA Pin=U9-96
+Added Net: Name=I2C_1_SDA
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=C26-1
+Added Pin To Net: NetName=NetC22_1 Pin=C30-1
+Added Pin To Net: NetName=NetC22_1 Pin=L5-1
+Added Pin To Net: NetName=NetC22_1 Pin=U9-22
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=C35-1
+Added Pin To Net: NetName=NetC34_1 Pin=C36-1
+Added Pin To Net: NetName=NetC34_1 Pin=L6-2
+Added Pin To Net: NetName=NetC34_1 Pin=U21-1
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetR96_1 Pin=R96-1
+Added Pin To Net: NetName=NetR96_1 Pin=SW2-1
+Added Net: Name=NetR96_1
+Added Pin To Net: NetName=NetU9_21 Pin=U9-21
+Added Pin To Net: NetName=NetU9_21 Pin=U21-2
+Added Net: Name=NetU9_21
+Added Pin To Net: NetName=UART_4_RX Pin=D11-K
+Added Pin To Net: NetName=UART_4_RX Pin=R53-2
+Added Net: Name=UART_4_RX
+Added Pin To Net: NetName=UART_4_TX Pin=D10-K
+Added Net: Name=UART_4_TX
+Added Member To Class: ClassName=Sheet2 Member=Component D19 UHD1110-FKA-CL1A13r3q1BBQFMF3
+Added Member To Class: ClassName=Sheet2 Member=Component D20 150080M153000
+Added Member To Class: ClassName=Sheet2 Member=Component L5 120 Îì
+Added Member To Class: ClassName=Sheet2 Member=Component L6 120 Îì
+Added Member To Class: ClassName=Sheet2 Member=Component R94 4,7 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R95 4,7 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R96 100
+Added Member To Class: ClassName=Sheet2 Member=Component U8 DS3231M+TRL
+Added Member To Class: ClassName=Sheet2 Member=Component U21 REF3020AIDBZR
