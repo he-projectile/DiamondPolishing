@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=V_IN Pin=VD4-3
+Removed Member From Class: ClassName=Sheet1 Member=VD6
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD10 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD14
+Change Component Designator: OldDesignator=VD16 NewDesignator=VD15
+Added Pin To Net: NetName=5 V Pin=D2-K
+Added Pin To Net: NetName=V_IN Pin=K1-1
+Added Pin To Net: NetName=5 V Pin=K1-2
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetP1_1

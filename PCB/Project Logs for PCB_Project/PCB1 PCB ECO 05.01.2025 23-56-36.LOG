@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Sheet1 Member=D8
+Removed Member From Class: ClassName=Sheet2 Member=VD6
+Added Pin To Net: NetName=NetD2_K Pin=K1-1
+Added Pin To Net: NetName=NetD2_K Pin=VD4-1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 B0520WS
+Added Member To Class: ClassName=Sheet1 Member=Component D4 GREEN
+Added Member To Class: ClassName=Sheet2 Member=Component D6 YELLOW
+Added Member To Class: ClassName=Sheet2 Member=Component D7 BLUE
+Added Member To Class: ClassName=Sheet4 Member=Component D10 B0520WS
+Added Member To Class: ClassName=Sheet4 Member=Component D12 YELLOW
+Added Member To Class: ClassName=Sheet4 Member=Component D13 BLUE
+Added Member To Class: ClassName=Sheet4 Member=Component D15 BLUE
+Added Member To Class: ClassName=Sheet4 Member=Component D16 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet4 Member=Component D18 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet1 Member=Component VD5 MBR1645G
+Added Member To Class: ClassName=Sheet1 Member=Component VD6 BAT54S
+Added Member To Class: ClassName=Sheet2 Member=Component VD7 BAT54S
+Added Member To Class: ClassName=Sheet4 Member=Component VD9 BAT54S
+Added Member To Class: ClassName=Sheet5 Member=Component VD12 BAT54S
+Added Member To Class: ClassName=Sheet5 Member=Component VD15 BAT54S

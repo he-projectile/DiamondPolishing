@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=5 V Pin=BF1-1
+Removed Pin From Net: NetName=5 V Pin=R64-2
+Removed Pin From Net: NetName=5 V Pin=R65-2
+Removed Pin From Net: NetName=5 V Pin=R66-2
+Removed Pin From Net: NetName=5 V Pin=R67-2
+Removed Pin From Net: NetName=CAN_2_TX Pin=U9-90
+Removed Pin From Net: NetName=USB_SUP Pin=U18-5
+Removed Member From Class: ClassName=Sheet2 Member=BF1
+Change Component Comment : Designator=R60 Old Comment=1 ê New Comment=10 ê
+Change Component Comment : Designator=R61 Old Comment=1 ê New Comment=10 ê
+Change Component Comment : Designator=R7 Old Comment=4,7 ê New Comment=10 ê
+Change Component Comment : Designator=R8 Old Comment=4,7 ê New Comment=10 ê
+Change Component Comment : Designator=R29 Old Comment=4,7 ê New Comment=10 ê
+Change Component Comment : Designator=R32 Old Comment=4,7 ê New Comment=10 ê
+Change Component Comment : Designator=R33 Old Comment=4,7 ê New Comment=10 ê
+Change Component Comment : Designator=R34 Old Comment=4,7 ê New Comment=10 ê
+Change Component Comment : Designator=R64 Old Comment=5,1 ê New Comment=150
+Change Component Comment : Designator=R65 Old Comment=5,1 ê New Comment=150
+Change Component Comment : Designator=R66 Old Comment=5,1 ê New Comment=150
+Change Component Comment : Designator=R67 Old Comment=5,1 ê New Comment=150
+Change Component Comment : Designator=U10 Old Comment=REF3020AIDBZR New Comment=REF3030AIDBZR
+Change component parameters: Designator = "R7"; Footprint = "RES_0603"; UniqueID = "\TUMZITDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RES_0603"; UniqueID = "\UQYJBRKJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "RES_0603"; UniqueID = "\OULBCOHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32"; Footprint = "RES_0603"; UniqueID = "\IPFAPJOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33"; Footprint = "RES_0603"; UniqueID = "\ABNLOXPL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "RES_0603"; UniqueID = "\IMLFBJEB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R60"; Footprint = "RES_0603"; UniqueID = "\RSIWWYII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61"; Footprint = "RES_0603"; UniqueID = "\KIPGMUIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R64"; Footprint = "RES_0603"; UniqueID = "\GAHYFGUN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R65"; Footprint = "RES_0603"; UniqueID = "\MUSAEZYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R66"; Footprint = "RES_0603"; UniqueID = "\YWIVCRVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R67"; Footprint = "RES_0603"; UniqueID = "\GMDRYHUP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U10"; Footprint = "DBZ0003A_N"; UniqueID = "\QBKSRKTH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=REF3020&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds108a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "Samples URL:http://www.ti.com/product/ref3020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "REF3030AIDBZR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "614004184726"; UniqueID = "\TGCSPVMZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1G?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole, Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "71472439"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "614104190121"; UniqueID = "\XRIWCOJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1G?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Horizontal, Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "71472442"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Component: Designator=LS?(FP-PS1440P02BT-MFG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SOUND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_ISO_GND Pin=C81-2
+Added Pin To Net: NetName=ADC_ISO_GND Pin=C82-1
+Added Pin To Net: NetName=ADC_ISO_GND Pin=C83-2
+Added Pin To Net: NetName=ADC_ISO_GND Pin=C84-1
+Added Pin To Net: NetName=ADC_ISO_GND Pin=C85-2
+Added Pin To Net: NetName=ADC_ISO_GND Pin=C86-1
+Added Pin To Net: NetName=5 V Pin=LS?-1
+Added Pin To Net: NetName=3.3 V Pin=R64-2
+Added Pin To Net: NetName=3.3 V Pin=R65-2
+Added Pin To Net: NetName=3.3 V Pin=R66-2
+Added Pin To Net: NetName=3.3 V Pin=R67-2
+Added Pin To Net: NetName=CAN_2_TX Pin=U9-92
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=VD11-2
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=VD12-2
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=VD13-2
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=VD14-2
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=VD15-2
+Added Pin To Net: NetName=ADC_ISO_+3.3 Pin=VD16-2
+Added Pin To Net: NetName=NetR93_2 Pin=X16-2
+Added Pin To Net: NetName=NetR97_2 Pin=X17-2
+Added Pin To Net: NetName=NetR101_2 Pin=X18-2
+Change Net Name : Old Net Name=USB_SUP New Net Name=NetC67_1
+Added Pin To Net: NetName=BUZZ_PWM Pin=Q2-1
+Added Pin To Net: NetName=BUZZ_PWM Pin=U9-90
+Added Net: Name=BUZZ_PWM
+Added Pin To Net: NetName=NetLS?_2 Pin=LS?-2
+Added Pin To Net: NetName=NetLS?_2 Pin=Q2-3
+Added Pin To Net: NetName=NetLS?_2 Pin=VD7-3
+Added Net: Name=NetLS?_2
+Added Pin To Net: NetName=USB_SUP Pin=U18-5
+Added Net: Name=USB_SUP
+Added Member To Class: ClassName=Sheet2 Member=Component LS? =Model
