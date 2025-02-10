@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=D14-2
+Removed Pin From Net: NetName=GND Pin=D15-1
+Removed Member From Class: ClassName=Sheet4 Member=D14
+Removed Member From Class: ClassName=Sheet4 Member=D15
+Removed Member From Class: ClassName=Sheet4 Member=R27
+Removed Member From Class: ClassName=Sheet4 Member=R30
+Change Component Footprint: Designator=R48 Old Footprint=OMTE-RES7X2.5-2 New Footprint=RES_0603
+Change Component Comment : Designator=R48 Old Comment=OD103JE New Comment=120
+Change component parameters: Designator = "R48"; Footprint = "RES_0603"; UniqueID = "\TAISBHUM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000079618"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR48_1 Pin=U14-7
+Added Pin To Net: NetName=NetR48_1 Pin=X12-2
+Added Net: Name=NetR48_1
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=U14-6
+Added Pin To Net: NetName=NetR48_2 Pin=X12-3
+Added Net: Name=NetR48_2
+Added Member To Class: ClassName=Sheet4 Member=Component F3 0,12 À
+Added Member To Class: ClassName=Sheet4 Member=Component F4 0,12 À
+Added Member To Class: ClassName=Sheet4 Member=Component F5 0,12 À
+Added Member To Class: ClassName=Sheet4 Member=Component F6 0,12 À
+Added Member To Class: ClassName=Sheet4 Member=Component P4 15EDGVC-3.5-03P
+Added Member To Class: ClassName=Sheet4 Member=Component P5 15EDGVC-3.5-03P
+Added Member To Class: ClassName=Sheet2 Member=Component R21 4,7 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R23 4,7 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R24 1 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R25 150
+Added Member To Class: ClassName=Sheet2 Member=Component R26 150
+Added Member To Class: ClassName=Sheet2 Member=Component R28 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R29 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R30 100
+Added Member To Class: ClassName=Sheet2 Member=Component R31 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R34 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R35 150
+Added Member To Class: ClassName=Sheet4 Member=Component R36 150
+Added Member To Class: ClassName=Sheet4 Member=Component R40 100
+Added Member To Class: ClassName=Sheet4 Member=Component R42 1 Ì
+Added Member To Class: ClassName=Sheet4 Member=Component R43 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R45 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R47 150
+Added Member To Class: ClassName=Sheet4 Member=Component R49 100
+Added Member To Class: ClassName=Sheet4 Member=Component R50 100
+Added Member To Class: ClassName=Sheet4 Member=Component R52 100

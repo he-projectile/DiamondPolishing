@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Sheet2 Member=U10
+Change Component Comment : Designator=P4 Old Comment=15EDGVC-3.5-04P New Comment=15EDGVC-3.5-03P
+Change Component Comment : Designator=P5 Old Comment=15EDGVC-3.5-04P New Comment=15EDGVC-3.5-03P
+Change Component Comment : Designator=P6 Old Comment=15EDGVC-3.5-04P New Comment=15EDGVC-3.5-03P
+Change component parameters: Designator = "P4"; Footprint = "691321100003"; UniqueID = "\YOXNXHIG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-03P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5"; Footprint = "691321100003"; UniqueID = "\WCIUJUHQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-03P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P6"; Footprint = "691321100003"; UniqueID = "\SDZEYVAG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-03P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component C22 12
+Added Member To Class: ClassName=Sheet2 Member=Component C29 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component U8 REF3030AIDBZR
+Added Member To Class: ClassName=Sheet4 Member=Component U9 AD8495CRMZ
+Added Member To Class: ClassName=Sheet4 Member=Component U12 TBD62003AFWG
+Added Member To Class: ClassName=Sheet4 Member=Component U13 DS90LV047ATMTC/NOPB

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Sheet2 Member=U10
+Removed Member From Class: ClassName=Sheet4 Member=U15
+Change Component Comment : Designator=D7 Old Comment=150080M153000 New Comment=FYLS-0605RGBC-CA
+Added Member To Class: ClassName=Sheet2 Member=Component C22 12
+Added Member To Class: ClassName=Sheet2 Member=Component C29 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component U8 REF3030AIDBZR
+Added Member To Class: ClassName=Sheet4 Member=Component U9 AD8495CRMZ
+Added Member To Class: ClassName=Sheet4 Member=Component U12 TBD62003AFWG
+Added Member To Class: ClassName=Sheet4 Member=Component U13 DS90LV047ATMTC/NOPB

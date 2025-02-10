@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetF3_1 Pin=P4-2
+Removed Pin From Net: NetName=NetF4_1 Pin=P4-3
+Removed Pin From Net: NetName=NetF5_1 Pin=P5-1
+Removed Pin From Net: NetName=SUPPLY Pin=P5-3
+Removed Member From Class: ClassName=Sheet4 Member=P5
+Removed Member From Class: ClassName=Sheet4 Member=P6
+Change Component Footprint: Designator=P6 Old Footprint=691321100006 New Footprint=691321100006
+Change Component Designator: OldDesignator=P6 NewDesignator=P4
+Added Pin To Net: NetName=NetF3_1 Pin=P4-1
+Added Pin To Net: NetName=NetF4_1 Pin=P4-2
+Added Pin To Net: NetName=NetF5_1 Pin=P4-3
+Added Pin To Net: NetName=SUPPLY Pin=P4-6

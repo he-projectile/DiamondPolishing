@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SUPPLY Pin=P4-6
+Change Component Footprint: Designator=P4 Old Footprint=691321100006 New Footprint=691321100005
+Change Component Comment : Designator=P4 Old Comment=15EDGVC-3.5-06P New Comment=15EDGVC-3.5-05P
+Change component parameters: Designator = "P4"; Footprint = "691321100005"; UniqueID = "\CAZIVDDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-05P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SUPPLY Pin=P4-5
+Added Pin To Net: NetName=NetF6_1 Pin=F6-1
+Added Pin To Net: NetName=NetF6_1 Pin=P4-4
+Added Net: Name=NetF6_1
+Added Member To Class: ClassName=Sheet4 Member=Component P4 15EDGVC-3.5-05P
