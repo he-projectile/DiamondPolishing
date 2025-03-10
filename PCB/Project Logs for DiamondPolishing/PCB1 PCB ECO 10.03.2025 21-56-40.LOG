@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=X5 Old Footprint=CON: WF-06 New Footprint=CON: IDC-6MS
+Change component parameters: Designator = "X5"; Footprint = "CON: IDC-6MS"; UniqueID = "\BOFQJEYZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetP2_1

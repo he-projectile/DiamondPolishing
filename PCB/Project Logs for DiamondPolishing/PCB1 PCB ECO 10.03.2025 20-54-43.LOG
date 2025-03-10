@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=X5 Old Footprint=CON: IDC-6MS New Footprint=CON: 0533750610
+Change Component Comment : Designator=X5 Old Comment=IDC-06MS New Comment=*
+Change component parameters: Designator = "X5"; Footprint = "CON: 0533750610"; UniqueID = "\ZZGCRFVT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"

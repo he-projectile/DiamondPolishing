@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RESET_PIN Pin=SW2-1
+Added Component: Designator=R18(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET_PIN Pin=R18-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=SW2-1
+Added Net: Name=NetR18_1
+Added Member To Class: ClassName=Sheet2 Member=Component R18 100

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=NetF1_1 Pin=P3-2
+Removed Pin From Net: NetName=NetF2_1 Pin=P3-3
+Removed Pin From Net: NetName=SUPPLY Pin=P3-4
+Removed Pin From Net: NetName=3.3 V Pin=R19-2
+Removed Pin From Net: NetName=3.3 V Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=5 V Pin=U5-5
+Removed Pin From Net: NetName=5 V Pin=X6-1
+Removed Pin From Net: NetName=GND Pin=X6-4
+Removed Member From Class: ClassName=Sheet2 Member=D4
+Removed Member From Class: ClassName=Sheet2 Member=D6
+Removed Member From Class: ClassName=Sheet2 Member=R17
+Removed Member From Class: ClassName=Sheet2 Member=R18
+Removed Member From Class: ClassName=Sheet2 Member=R19
+Removed Member From Class: ClassName=Sheet2 Member=R20
+Removed Member From Class: ClassName=Sheet2 Member=U5
+Removed Member From Class: ClassName=Sheet2 Member=X6
+Change Component Footprint: Designator=P3 Old Footprint=691321100004 New Footprint=691321100003
+Change Component Comment : Designator=P3 Old Comment=15EDGVC-3.5-04P New Comment=15EDGVC-3.5-03P
+Change component parameters: Designator = "P3"; Footprint = "691321100003"; UniqueID = "\VFVQJHGD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-03P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: WF-04)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=P3-1
+Added Pin To Net: NetName=NetF2_1 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Member To Class: ClassName=Sheet4 Member=Component X? *

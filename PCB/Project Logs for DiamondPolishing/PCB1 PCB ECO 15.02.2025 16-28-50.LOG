@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5 V Pin=LS1-1
+Removed Pin From Net: NetName=NetLS1_2 Pin=LS1-2
+Removed Member From Class: ClassName=Sheet2 Member=LS2
+Change Component Comment : Designator=LS2 Old Comment=SD1209T5-A1 New Comment=*
+Change Component Designator: OldDesignator=LS2 NewDesignator=LS1
+Change component parameters: Designator = "LS1"; Footprint = "FP-SD1209-MFG"; UniqueID = "\SRZEVMLZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SOUND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5 V Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
