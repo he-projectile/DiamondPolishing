@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=D5 Old Footprint=SOD-323 New Footprint=SMC-DO-214AB
+Change Component Comment : Designator=D5 Old Comment=B0520WS New Comment=SS36
+Change component parameters: Designator = "D5"; Footprint = "SMC-DO-214AB"; UniqueID = "\FTZILIQR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000216047"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SS36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "ONSC-SOT-23-3-318-08_V"; UniqueID = "\JLEOEPHK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/DTC143Z-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/318-08.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MMUN2233LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"

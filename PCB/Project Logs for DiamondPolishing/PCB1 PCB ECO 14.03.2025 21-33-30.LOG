@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D5 Old Footprint=SMC-DO-214AB New Footprint=DO-214AC-2 (SMA)
+Change Component Comment : Designator=D5 Old Comment=SS36 New Comment=SS24
+Change component parameters: Designator = "D5"; Footprint = "DO-214AC-2 (SMA)"; UniqueID = "\UIOPYXXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SS24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
