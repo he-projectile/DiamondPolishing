@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=BUZZ_PWM Pin=U6-35
+Added Pin To Net: NetName=SUPPLY_INT Pin=U6-46
+Added Pin To Net: NetName=CAN_2_RX Pin=U6-51
+Added Pin To Net: NetName=CAN_2_TX Pin=U6-52
+Added Pin To Net: NetName=UART_4_RX Pin=U6-56
+Added Pin To Net: NetName=MODBUS_DERE Pin=U6-57
+Added Pin To Net: NetName=OC_0 Pin=U6-59
+Added Pin To Net: NetName=OC_1 Pin=U6-60
+Added Pin To Net: NetName=OC_2 Pin=U6-61
+Added Pin To Net: NetName=OC_3 Pin=U6-62
+Added Pin To Net: NetName=LED_B Pin=U6-90
+Added Pin To Net: NetName=LED_R Pin=U6-91
+Added Pin To Net: NetName=LED_G Pin=U6-92
+Added Pin To Net: NetName=USR_BTN Pin=U6-93
+Added Pin To Net: NetName=CAN_1_RX Pin=U6-95
+Added Pin To Net: NetName=CAN_1_TX Pin=U6-96
+Change Net Name : Old Net Name=UART_4_RX New Net Name=USART_3_RX
+Added Pin To Net: NetName=I2C_2_SCL Pin=R21-1
+Added Pin To Net: NetName=I2C_2_SCL Pin=U6-47
+Added Net: Name=I2C_2_SCL
+Added Pin To Net: NetName=I2C_2_SDA Pin=R22-1
+Added Pin To Net: NetName=I2C_2_SDA Pin=U6-48
+Added Net: Name=I2C_2_SDA
+Added Pin To Net: NetName=USART_3_TX Pin=D8-K
+Added Pin To Net: NetName=USART_3_TX Pin=U6-55
+Added Pin To Net: NetName=USART_3_TX Pin=U11-1
+Added Net: Name=USART_3_TX
