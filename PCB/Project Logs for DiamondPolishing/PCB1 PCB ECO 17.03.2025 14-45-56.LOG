@@ -1,0 +1,54 @@
+Removed Member From Class: ClassName=Sheet4 Member=C29
+Removed Member From Class: ClassName=Sheet4 Member=U5
+Added Component: Designator=C43(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 לך"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Member To Class: ClassName=Sheet1 Member=Component C8 N/A
+Added Member To Class: ClassName=Sheet1 Member=Component C10 10 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C12 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C15 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C17 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C20 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C22 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C24 4,7 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C25 12
+Added Member To Class: ClassName=Sheet2 Member=Component C27 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component C28 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C31 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C35 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C37 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C38 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C40 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C42 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C43 0,1 לך
+Added Member To Class: ClassName=Sheet2 Member=Component D5 FYLS-0605RGBC-CA
+Added Member To Class: ClassName=Sheet4 Member=Component D8 D_TVS_BI_SMC
+Added Member To Class: ClassName=Sheet2 Member=Component R17 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R18 4,7 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R22 1 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R25 150
+Added Member To Class: ClassName=Sheet2 Member=Component R26 10 ך
+Added Member To Class: ClassName=Sheet2 Member=Component R27 100
+Added Member To Class: ClassName=Sheet2 Member=Component R31 100
+Added Member To Class: ClassName=Sheet4 Member=Component R33 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R34 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R37 6,2 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R38 OD103JE
+Added Member To Class: ClassName=Sheet4 Member=Component R39 100
+Added Member To Class: ClassName=Sheet4 Member=Component R45 100
+Added Member To Class: ClassName=Sheet4 Member=Component R46 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R47 150
+Added Member To Class: ClassName=Sheet4 Member=Component R49 120
+Added Member To Class: ClassName=Sheet4 Member=Component R50 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R51 10 ך
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 KLS7-TS3401- 2,5-180
+Added Member To Class: ClassName=Sheet2 Member=Component U6 W25Q32BVSSIG
+Added Member To Class: ClassName=Sheet4 Member=Component U7 ADS1110A0IDBVR
+Added Member To Class: ClassName=Sheet4 Member=Component U8 TP8485E-SR
+Added Member To Class: ClassName=Sheet4 Member=Component U10 TBD62003AFWG
+Added Member To Class: ClassName=Sheet4 Member=Component X8 CNC_PCB_SOCKET
+Added Member To Class: ClassName=Sheet4 Member=Component X9 CNC_PCB_SOCKET

@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Power_line Member=NetC6_2
+Removed Member From Class: ClassName=Power_line Member=NetL1_1
+Change Class Name : Old Net Name=Power_line New Net Name=Low_Power_Line
+Added Class: Name=Power_line
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF3_1
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF4_1
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF4_2
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF5_1
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF5_2
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF6_1
+Added Member To Class: ClassName=Low_Power_Line Member=Wire NetF6_2
+Added Member To Class: ClassName=Low_Power_Line Member=Wire SUPPLY

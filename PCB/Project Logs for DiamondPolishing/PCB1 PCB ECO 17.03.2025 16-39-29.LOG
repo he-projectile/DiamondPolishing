@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=EXT_MCU_STOP Pin=U5-2
+Added Pin To Net: NetName=EXT_MCU_SYNC Pin=U5-3
+Added Pin To Net: NetName=EXT_MCU_COCK Pin=U5-4
+Added Pin To Net: NetName=EXT_MCU_INT Pin=U5-1
+Added Net: Name=EXT_MCU_INT

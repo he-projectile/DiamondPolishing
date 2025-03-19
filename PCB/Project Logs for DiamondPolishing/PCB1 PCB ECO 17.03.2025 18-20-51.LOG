@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=EXT_MCU_COCK_01_P Pin=U13-11
+Removed Pin From Net: NetName=EXT_MCU_COCK_01_N Pin=U13-12
+Removed Pin From Net: NetName=EXT_MCU_STOP_01_P Pin=U13-15
+Removed Pin From Net: NetName=EXT_MCU_STOP_01_N Pin=U13-16
+Added Pin To Net: NetName=EXT_MCU_STOP_01_P Pin=U13-11
+Added Pin To Net: NetName=EXT_MCU_STOP_01_N Pin=U13-12
+Added Pin To Net: NetName=EXT_MCU_COCK_01_P Pin=U13-15
+Added Pin To Net: NetName=EXT_MCU_COCK_01_N Pin=U13-16

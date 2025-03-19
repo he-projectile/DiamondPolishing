@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=X11 Old Footprint=CON: CWF-4 New Footprint=CON: WF-04
+Added Member To Class: ClassName=Sheet4 Member=Component C34 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C36 10 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C37 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C41 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C43 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component C44 0,1 לך
+Added Member To Class: ClassName=Sheet4 Member=Component R36 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R50 10 ך
+Added Member To Class: ClassName=Sheet4 Member=Component R53 100
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 SUPPLY
+Added Member To Class: ClassName=Sheet4 Member=Component U12 SN74LVC1T45DCKR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet4

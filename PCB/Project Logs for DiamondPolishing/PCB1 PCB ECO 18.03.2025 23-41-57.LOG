@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V_IN Pin=U2-8
+Removed Pin From Net: NetName=OC_0 Pin=U10-1
+Removed Pin From Net: NetName=OC_1 Pin=U10-3
+Added Component: Designator=R55(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_IN Pin=R55-1
+Added Pin To Net: NetName=OC_1 Pin=U10-1
+Added Pin To Net: NetName=OC_0 Pin=U10-3
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetR55_2 Pin=U2-8
+Added Net: Name=NetR55_2
+Added Member To Class: ClassName=Sheet1 Member=Component R55 10 ê

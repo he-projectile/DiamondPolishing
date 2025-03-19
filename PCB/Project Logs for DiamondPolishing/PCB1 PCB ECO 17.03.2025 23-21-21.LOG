@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=USART_3_TX Pin=D6-K
+Removed Pin From Net: NetName=USART_3_RX Pin=D7-K
+Removed Pin From Net: NetName=3.3 V Pin=R35-2
+Removed Pin From Net: NetName=3.3 V Pin=R36-2
+Added Pin To Net: NetName=3.3 V Pin=D6-A
+Added Pin To Net: NetName=3.3 V Pin=D7-A
+Added Pin To Net: NetName=USART_3_TX Pin=R35-1
+Added Pin To Net: NetName=USART_3_RX Pin=R36-1
+Added Pin To Net: NetName=NetD6_K Pin=D6-K
+Added Pin To Net: NetName=NetD6_K Pin=R35-2
+Added Net: Name=NetD6_K
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=NetD7_K Pin=R36-2
+Added Net: Name=NetD7_K

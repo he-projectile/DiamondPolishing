@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=OC_0 Pin=U12-1
+Removed Pin From Net: NetName=OC_1 Pin=U12-3
+Added Pin To Net: NetName=EM_STOP_PIN Pin=U6-71
+Added Pin To Net: NetName=FLASH_CS Pin=U6-81
+Added Pin To Net: NetName=FLASH_WP Pin=U6-82
+Added Pin To Net: NetName=OC_1 Pin=U12-1
+Added Pin To Net: NetName=OC_0 Pin=U12-3
+Added Pin To Net: NetName=FLASH_MISO Pin=U6-79
+Added Pin To Net: NetName=FLASH_MISO Pin=U7-2
+Added Net: Name=FLASH_MISO
+Added Pin To Net: NetName=FLASH_MOSI Pin=U6-80
+Added Pin To Net: NetName=FLASH_MOSI Pin=U7-5
+Added Net: Name=FLASH_MOSI
+Added Pin To Net: NetName=FLASH_SCK Pin=U6-78
+Added Pin To Net: NetName=FLASH_SCK Pin=U7-6
+Added Net: Name=FLASH_SCK

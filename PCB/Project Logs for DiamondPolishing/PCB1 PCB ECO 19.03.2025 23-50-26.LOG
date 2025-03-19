@@ -1,0 +1,2 @@
+Removed Member From Class: ClassName=Power_line Member=SUPPLY
+Added Member To Class: ClassName=Low_power_line Member=Wire SUPPLY
