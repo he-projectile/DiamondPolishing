@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=SPI_1_MOSI Pin=U5-3
+Removed Pin From Net: NetName=IO_3 Pin=U5-6
+Removed Pin From Net: NetName=SPI_1_MISO Pin=U6-1
+Removed Pin From Net: NetName=SPI_1_SCK Pin=U6-4
+Removed Pin From Net: NetName=IO_2 Pin=U7-1
+Removed Pin From Net: NetName=IO_1 Pin=U7-4
+Removed Pin From Net: NetName=UART_4_RX Pin=U8-1
+Removed Pin From Net: NetName=IO_0 Pin=U8-3
+Removed Pin From Net: NetName=IO_0 Pin=U8-4
+Removed Pin From Net: NetName=UART_4_TX Pin=U8-6
+Removed Member From Class: ClassName=Sheet2 Member=R43
+Removed Member From Class: ClassName=Sheet2 Member=R44
+Removed Member From Class: ClassName=Sheet2 Member=R47
+Removed Member From Class: ClassName=Sheet2 Member=R48
+Removed Member From Class: ClassName=Sheet2 Member=R50
+Removed Member From Class: ClassName=Sheet2 Member=R54
+Removed Member From Class: ClassName=Sheet2 Member=R55
+Removed Member From Class: ClassName=Sheet2 Member=R58
+Removed Member From Class: ClassName=Sheet2 Member=R60
+Removed Member From Class: ClassName=Sheet2 Member=X16
+Removed Member From Class: ClassName=Sheet2 Member=X17
+Removed Member From Class: ClassName=Sheet2 Member=X18
+Removed Member From Class: ClassName=Sheet2 Member=X19
+Removed Member From Class: ClassName=Sheet2 Member=X20
+Change Component Comment : Designator=X13 Old Comment=* New Comment=RX
+Change Component Comment : Designator=X14 Old Comment=* New Comment=TX
+Change Component Designator: OldDesignator=R20 NewDesignator=R25
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Change Component Designator: OldDesignator=U14 NewDesignator=U15
+Change Component Designator: OldDesignator=U15 NewDesignator=U16
+Change Component Designator: OldDesignator=U16 NewDesignator=U17
+Change Component Designator: OldDesignator=U17 NewDesignator=U18
+Change Component Designator: OldDesignator=U18 NewDesignator=U19
+Change Component Designator: OldDesignator=X9 NewDesignator=X14
+Change Component Designator: OldDesignator=X10 NewDesignator=X11
+Change Component Designator: OldDesignator=X11 NewDesignator=X12
+Change Component Designator: OldDesignator=X12 NewDesignator=X13
+Change Component Designator: OldDesignator=X13 NewDesignator=X9
+Change Component Designator: OldDesignator=X14 NewDesignator=X10
+Change component parameters: Designator = "X9"; Footprint = "CON: PADS 1x1mm"; UniqueID = "\HWFBQWVQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "SIGNAL"; Value = "RX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X10"; Footprint = "CON: PADS 1x1mm"; UniqueID = "\VHLDQUUY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "SIGNAL"; Value = "TX"; VariantName = "[No Variations]"
+Added Component: Designator=U9(NXP-SOT457_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO_3 Pin=U5-3
+Added Pin To Net: NetName=SPI_1_MOSI Pin=U5-6
+Added Pin To Net: NetName=SPI_1_SCK Pin=U6-1
+Added Pin To Net: NetName=SPI_1_MISO Pin=U6-4
+Added Pin To Net: NetName=IO_1 Pin=U7-1
+Added Pin To Net: NetName=IO_2 Pin=U7-4
+Added Pin To Net: NetName=UART_4_TX Pin=U8-1
+Added Pin To Net: NetName=UART_4_TX Pin=U8-3
+Added Pin To Net: NetName=UART_4_RX Pin=U8-4
+Added Pin To Net: NetName=UART_4_RX Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=IO_0 Pin=U9-4
+Added Pin To Net: NetName=5 V Pin=U9-5
+Added Pin To Net: NetName=IO_0 Pin=U9-6
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetU15_4 New Net Name=NetU16_4
+Change Net Name : Old Net Name=NetU16_4 New Net Name=NetU17_4
+Added Member To Class: ClassName=Sheet2 Member=Component R17 100
+Added Member To Class: ClassName=Sheet2 Member=Component R18 100
+Added Member To Class: ClassName=Sheet2 Member=Component R19 100
+Added Member To Class: ClassName=Sheet2 Member=Component R20 100
+Added Member To Class: ClassName=Sheet2 Member=Component R21 100
+Added Member To Class: ClassName=Sheet2 Member=Component R22 100
+Added Member To Class: ClassName=Sheet2 Member=Component R23 100
+Added Member To Class: ClassName=Sheet2 Member=Component R24 100
+Added Member To Class: ClassName=Sheet2 Member=Component R25 100
+Added Member To Class: ClassName=Sheet2 Member=Component R26 4,7 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R30 4,7 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R33 150
+Added Member To Class: ClassName=Sheet2 Member=Component R37 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R38 100
+Added Member To Class: ClassName=Sheet2 Member=Component R39 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R40 100
+Added Member To Class: ClassName=Sheet4 Member=Component R41 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R42 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R45 10 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R46 6,2 ê
+Added Member To Class: ClassName=Sheet4 Member=Component R49 100
+Added Member To Class: ClassName=Sheet4 Member=Component R51 100
+Added Member To Class: ClassName=Sheet4 Member=Component R52 100
+Added Member To Class: ClassName=Sheet2 Member=Component U11 W25Q32BVSSIG
+Added Member To Class: ClassName=Sheet2 Member=Component X6 SCK
+Added Member To Class: ClassName=Sheet2 Member=Component X7 IO_2
+Added Member To Class: ClassName=Sheet2 Member=Component X8 IO_1
+Added Member To Class: ClassName=Sheet2 Member=Component X11 MOSI
+Added Member To Class: ClassName=Sheet2 Member=Component X13 MISO
+Added Member To Class: ClassName=Sheet2 Member=Component X14 IO_0

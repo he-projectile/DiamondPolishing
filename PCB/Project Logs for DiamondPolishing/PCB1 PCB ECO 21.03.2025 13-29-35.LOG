@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FLASH_CS Pin=U5-82
+Added Pin To Net: NetName=FLASH_CS Pin=U5-77
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet4

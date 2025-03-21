@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Sheet2 Member=U18
+Added Member To Class: ClassName=Sheet2 Member=Component R20 100
+Added Member To Class: ClassName=Sheet2 Member=Component R22 100
+Added Member To Class: ClassName=Sheet2 Member=Component R24 100
+Added Member To Class: ClassName=Sheet2 Member=Component R25 100
+Added Member To Class: ClassName=Sheet2 Member=Component U9 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U11 W25Q32BVSSIG
+Added Member To Class: ClassName=Sheet4 Member=Component U12 ADS1110A0IDBVR
+Added Member To Class: ClassName=Sheet4 Member=Component U13 TP8485E-SR
+Added Member To Class: ClassName=Sheet4 Member=Component U14 AD8495CRMZ
+Added Member To Class: ClassName=Sheet4 Member=Component U15 TBD62003AFWG
+Added Member To Class: ClassName=Sheet4 Member=Component U16 SN74LVC1T45DCKR
+Added Member To Class: ClassName=Sheet4 Member=Component U17 SN74LVC1T45DCKR
+Added Member To Class: ClassName=Sheet2 Member=Component X10 TX
+Added Member To Class: ClassName=Sheet2 Member=Component X12 IO_3
+Added Member To Class: ClassName=Sheet2 Member=Component X13 MISO
+Added Member To Class: ClassName=Sheet2 Member=Component X14 IO_0

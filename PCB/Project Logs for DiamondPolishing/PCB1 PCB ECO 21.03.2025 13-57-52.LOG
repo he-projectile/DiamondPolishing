@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=U5 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U7 NewDesignator=U9
+Change Component Designator: OldDesignator=U8 NewDesignator=U10
+Change Component Designator: OldDesignator=U9 NewDesignator=U11
+Change Component Designator: OldDesignator=U10 NewDesignator=U12
+Change Component Designator: OldDesignator=U11 NewDesignator=U13
+Change Component Designator: OldDesignator=U12 NewDesignator=U14
+Change Component Designator: OldDesignator=U13 NewDesignator=U15
+Change Component Designator: OldDesignator=U14 NewDesignator=U16
+Added Component: Designator=U5(NXP-SOT457_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Added Component: Designator=U6(NXP-SOT457_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=SPI_1_SCK Pin=U5-3
+Added Pin To Net: NetName=SPI_1_MISO Pin=U5-4
+Added Pin To Net: NetName=5 V Pin=U5-5
+Added Pin To Net: NetName=SPI_1_MOSI Pin=U5-6
+Added Pin To Net: NetName=UART_4_TX Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=UART_4_RX Pin=U6-3
+Added Pin To Net: NetName=IO_0 Pin=U6-4
+Added Pin To Net: NetName=5 V Pin=U6-5
+Added Pin To Net: NetName=IO_1 Pin=U6-6
+Change Net Name : Old Net Name=NetU11_4 New Net Name=NetU13_4
+Change Net Name : Old Net Name=NetU12_4 New Net Name=NetU14_4
+Added Pin To Net: NetName=IO_3 Pin=U5-1
+Added Net: Name=IO_3
+Added Member To Class: ClassName=Sheet2 Member=Component U7 STM32F427VGT6
+Added Member To Class: ClassName=Sheet2 Member=Component U8 W25Q32BVSSIG

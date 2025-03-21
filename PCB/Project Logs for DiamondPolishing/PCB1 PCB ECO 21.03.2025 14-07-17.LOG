@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=SPI_1_SCK Pin=U5-3
+Removed Pin From Net: NetName=SPI_1_MISO Pin=U5-4
+Removed Pin From Net: NetName=UART_4_TX Pin=U6-1
+Removed Pin From Net: NetName=UART_4_RX Pin=U6-3
+Removed Pin From Net: NetName=IO_0 Pin=U6-4
+Removed Pin From Net: NetName=IO_1 Pin=U6-6
+Removed Member From Class: ClassName=Sheet2 Member=U11
+Change Component Designator: OldDesignator=U7 NewDesignator=U9
+Change Component Designator: OldDesignator=U8 NewDesignator=U10
+Change Component Designator: OldDesignator=U9 NewDesignator=U11
+Change Component Designator: OldDesignator=U10 NewDesignator=U12
+Change Component Designator: OldDesignator=U11 NewDesignator=U13
+Change Component Designator: OldDesignator=U12 NewDesignator=U14
+Change Component Designator: OldDesignator=U13 NewDesignator=U15
+Change Component Designator: OldDesignator=U14 NewDesignator=U16
+Change Component Designator: OldDesignator=U15 NewDesignator=U17
+Change Component Designator: OldDesignator=U16 NewDesignator=U18
+Added Component: Designator=U7(NXP-SOT457_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Added Component: Designator=U8(NXP-SOT457_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO_3 Pin=U5-3
+Added Pin To Net: NetName=SPI_1_MOSI Pin=U5-4
+Added Pin To Net: NetName=SPI_1_SCK Pin=U6-1
+Added Pin To Net: NetName=SPI_1_SCK Pin=U6-3
+Added Pin To Net: NetName=SPI_1_MISO Pin=U6-4
+Added Pin To Net: NetName=SPI_1_MISO Pin=U6-6
+Added Pin To Net: NetName=IO_1 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=IO_1 Pin=U7-3
+Added Pin To Net: NetName=IO_2 Pin=U7-4
+Added Pin To Net: NetName=5 V Pin=U7-5
+Added Pin To Net: NetName=IO_2 Pin=U7-6
+Added Pin To Net: NetName=UART_4_TX Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=UART_4_RX Pin=U8-3
+Added Pin To Net: NetName=IO_0 Pin=U8-4
+Added Pin To Net: NetName=5 V Pin=U8-5
+Added Pin To Net: NetName=IO_0 Pin=U8-6
+Added Pin To Net: NetName=IO_3 Pin=U9-33
+Change Net Name : Old Net Name=NetU13_4 New Net Name=NetU15_4
+Change Net Name : Old Net Name=NetU14_4 New Net Name=NetU16_4
+Added Member To Class: ClassName=Sheet2 Member=Component U5 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U6 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U7 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U8 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U9 STM32F427VGT6
+Added Member To Class: ClassName=Sheet4 Member=Component U13 AD8495CRMZ
+Added Member To Class: ClassName=Sheet4 Member=Component U17 DS90LV047ATMTC/NOPB
+Added Member To Class: ClassName=Sheet4 Member=Component U18 SN65HVD251DR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet4

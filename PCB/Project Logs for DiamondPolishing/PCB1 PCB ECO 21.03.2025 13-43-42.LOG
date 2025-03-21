@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=LED_G Pin=U5-92
+Added Pin To Net: NetName=LED_G Pin=U5-36
+Added Pin To Net: NetName=IO_0 Pin=U5-25
+Added Net: Name=IO_0
+Added Pin To Net: NetName=IO_1 Pin=U5-26
+Added Net: Name=IO_1
+Added Pin To Net: NetName=IO_2 Pin=U5-29
+Added Net: Name=IO_2
+Added Pin To Net: NetName=SPI_1_MISO Pin=U5-31
+Added Net: Name=SPI_1_MISO
+Added Pin To Net: NetName=SPI_1_MOSI Pin=U5-32
+Added Net: Name=SPI_1_MOSI
+Added Pin To Net: NetName=SPI_1_SCK Pin=U5-30
+Added Net: Name=SPI_1_SCK
+Added Pin To Net: NetName=UART_4_RX Pin=U5-24
+Added Net: Name=UART_4_RX
+Added Pin To Net: NetName=UART_4_TX Pin=U5-23
+Added Net: Name=UART_4_TX

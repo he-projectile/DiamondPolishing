@@ -1,0 +1,200 @@
+Removed Pin From Net: NetName=SPI_1_MOSI Pin=U5-1
+Removed Pin From Net: NetName=IO_3 Pin=U5-4
+Removed Pin From Net: NetName=SPI_1_MISO Pin=U6-3
+Removed Pin From Net: NetName=SPI_1_SCK Pin=U6-6
+Removed Member From Class: ClassName=Sheet2 Member=U12
+Removed Member From Class: ClassName=Sheet2 Member=U13
+Change Component Designator: OldDesignator=R17 NewDesignator=R26
+Change Component Designator: OldDesignator=R18 NewDesignator=R27
+Change Component Designator: OldDesignator=R19 NewDesignator=R28
+Change Component Designator: OldDesignator=R20 NewDesignator=R29
+Change Component Designator: OldDesignator=R21 NewDesignator=R30
+Change Component Designator: OldDesignator=R22 NewDesignator=R31
+Change Component Designator: OldDesignator=R23 NewDesignator=R32
+Change Component Designator: OldDesignator=R24 NewDesignator=R33
+Change Component Designator: OldDesignator=R25 NewDesignator=R34
+Change Component Designator: OldDesignator=R26 NewDesignator=R35
+Change Component Designator: OldDesignator=R27 NewDesignator=R36
+Change Component Designator: OldDesignator=R28 NewDesignator=R37
+Change Component Designator: OldDesignator=R29 NewDesignator=R38
+Change Component Designator: OldDesignator=R30 NewDesignator=R39
+Change Component Designator: OldDesignator=R31 NewDesignator=R40
+Change Component Designator: OldDesignator=R32 NewDesignator=R41
+Change Component Designator: OldDesignator=R33 NewDesignator=R42
+Change Component Designator: OldDesignator=R34 NewDesignator=R43
+Change Component Designator: OldDesignator=R35 NewDesignator=R44
+Change Component Designator: OldDesignator=R36 NewDesignator=R45
+Change Component Designator: OldDesignator=R37 NewDesignator=R46
+Change Component Designator: OldDesignator=R38 NewDesignator=R47
+Change Component Designator: OldDesignator=R39 NewDesignator=R48
+Change Component Designator: OldDesignator=R40 NewDesignator=R49
+Change Component Designator: OldDesignator=R41 NewDesignator=R50
+Change Component Designator: OldDesignator=R42 NewDesignator=R51
+Change Component Designator: OldDesignator=R43 NewDesignator=R52
+Change Component Designator: OldDesignator=R44 NewDesignator=R53
+Change Component Designator: OldDesignator=R45 NewDesignator=R54
+Change Component Designator: OldDesignator=R46 NewDesignator=R55
+Change Component Designator: OldDesignator=R47 NewDesignator=R56
+Change Component Designator: OldDesignator=R48 NewDesignator=R57
+Change Component Designator: OldDesignator=R49 NewDesignator=R58
+Change Component Designator: OldDesignator=R50 NewDesignator=R59
+Change Component Designator: OldDesignator=R51 NewDesignator=R60
+Change Component Designator: OldDesignator=R52 NewDesignator=R61
+Change Component Designator: OldDesignator=R53 NewDesignator=R62
+Change Component Designator: OldDesignator=X6 NewDesignator=X15
+Change Component Designator: OldDesignator=X7 NewDesignator=X16
+Change Component Designator: OldDesignator=X8 NewDesignator=X17
+Change Component Designator: OldDesignator=X9 NewDesignator=X18
+Change Component Designator: OldDesignator=X10 NewDesignator=X19
+Change Component Designator: OldDesignator=X11 NewDesignator=X20
+Added Component: Designator=R17(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=X6(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "SCK"; VariantName = "[No Variations]"
+Added Component: Designator=X7(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "IO_2"; VariantName = "[No Variations]"
+Added Component: Designator=X8(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "IO_1"; VariantName = "[No Variations]"
+Added Component: Designator=X9(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "IO_0"; VariantName = "[No Variations]"
+Added Component: Designator=X10(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "MOSI"; VariantName = "[No Variations]"
+Added Component: Designator=X11(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "IO_3"; VariantName = "[No Variations]"
+Added Component: Designator=X12(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = "MISO"; VariantName = "[No Variations]"
+Added Component: Designator=X13(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X14(CON: PADS 1x1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SIGNAL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_1_SCK Pin=R17-1
+Added Pin To Net: NetName=IO_2 Pin=R18-1
+Added Pin To Net: NetName=IO_1 Pin=R19-1
+Added Pin To Net: NetName=IO_0 Pin=R20-1
+Added Pin To Net: NetName=SPI_1_MOSI Pin=R21-1
+Added Pin To Net: NetName=IO_3 Pin=R22-1
+Added Pin To Net: NetName=SPI_1_MISO Pin=R23-1
+Added Pin To Net: NetName=UART_4_RX Pin=R24-1
+Added Pin To Net: NetName=UART_4_TX Pin=R25-1
+Added Pin To Net: NetName=IO_3 Pin=U5-1
+Added Pin To Net: NetName=SPI_1_MOSI Pin=U5-4
+Added Pin To Net: NetName=SPI_1_SCK Pin=U6-3
+Added Pin To Net: NetName=SPI_1_MISO Pin=U6-6
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR36_1
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR46_1
+Change Net Name : Old Net Name=NetR39_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetR40_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR52_2 New Net Name=NetR61_2
+Change Net Name : Old Net Name=NetR53_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR62_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=X6-1
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=X7-1
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=X8-1
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=X9-1
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=X10-1
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=X11-1
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=X12-1
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=X13-1
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=X14-1
+Added Net: Name=NetR25_2
+Added Member To Class: ClassName=Sheet2 Member=Component R32 150
+Added Member To Class: ClassName=Sheet2 Member=Component R33 150
+Added Member To Class: ClassName=Sheet2 Member=Component R34 150
+Added Member To Class: ClassName=Sheet2 Member=Component R35 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R36 100
+Added Member To Class: ClassName=Sheet2 Member=Component R37 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R38 100
+Added Member To Class: ClassName=Sheet2 Member=Component R39 10 ê
+Added Member To Class: ClassName=Sheet2 Member=Component R40 100
+Added Member To Class: ClassName=Sheet2 Member=Component U7 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U8 IP4220CZ6
+Added Member To Class: ClassName=Sheet2 Member=Component U9 STM32F427VGT6
+Added Member To Class: ClassName=Sheet2 Member=Component U10 W25Q32BVSSIG
+Added Member To Class: ClassName=Sheet4 Member=Component U11 ADS1110A0IDBVR
+Added Member To Class: ClassName=Sheet4 Member=Component U14 TBD62003AFWG
+Added Member To Class: ClassName=Sheet4 Member=Component U15 SN74LVC1T45DCKR
+Added Member To Class: ClassName=Sheet2 Member=Component X7 IO_2
+Added Member To Class: ClassName=Sheet2 Member=Component X8 IO_1
+Added Member To Class: ClassName=Sheet2 Member=Component X9 IO_0
+Added Member To Class: ClassName=Sheet2 Member=Component X10 MOSI
+Added Member To Class: ClassName=Sheet2 Member=Component X11 IO_3
+Added Member To Class: ClassName=Sheet2 Member=Component X12 MISO
+Added Member To Class: ClassName=Sheet2 Member=Component X13 *
+Added Member To Class: ClassName=Sheet2 Member=Component X14 *
+Added Member To Class: ClassName=Sheet2 Member=Component X15 25 M
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet4
