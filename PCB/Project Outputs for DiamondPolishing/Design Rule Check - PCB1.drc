@@ -1,21 +1,21 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\barko\Desktop\Daniil\Dimamomd\DiamondPolishing\PCB\PCB1.PcbDoc
-Date     : 21.03.2025
-Time     : 20:27:46
-
-Processing Rule : Clearance Constraint (Gap=5.906mil) (Disabled)(All),(All)
-Rule Violations :0
+Date     : 23.03.2025
+Time     : 20:10:31
 
 Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11.811mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5.906mil) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=3.937mil) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=4.921mil) (Disabled)(All),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=11.811mil) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=39.37mil) (InNetClass('ADC')),(NOT InNetClass('ADC'))
@@ -38,15 +38,18 @@ Processing Rule : Clearance Constraint (Gap=19.685mil) (InNetClass('Low_power_li
    Violation between Clearance Constraint: (18.662mil < 19.685mil) Between Track (2136.142mil,4800.006mil)(2136.142mil,4805mil) on Top Layer And Track (2205mil,4650mil)(2205mil,4805mil) on Top Layer 
 Rule Violations :14
 
+Processing Rule : Clearance Constraint (Gap=39.37mil) (InNetClass('FIDUCIAL')),(Not InNetClass('FIDUCIAL'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=13.78mil) (Disabled)(All),(All)
+Rule Violations :0
+
 Processing Rule : Clearance Constraint (Gap=23.622mil) (InNetClass('Power_line')),(Not InNetClass('Power_line'))
    Violation between Clearance Constraint: (19.744mil < 23.622mil) Between Pad U1-2(2203.071mil,4805mil) on Multi-Layer And Track (2270mil,4743.062mil)(2270mil,4805mil) on Bottom Layer 
    Violation between Clearance Constraint: (19.744mil < 23.622mil) Between Pad U1-2(2203.071mil,4805mil) on Multi-Layer And Track (2270mil,4743.062mil)(2270mil,4805mil) on Layer 2 
    Violation between Clearance Constraint: (15.807mil < 23.622mil) Between Pad U1-3(2270mil,4805mil) on Multi-Layer And Track (2203.071mil,4678.071mil)(2203.071mil,4805mil) on Bottom Layer 
    Violation between Clearance Constraint: (12.894mil < 23.622mil) Between Pad U1-3(2270mil,4805mil) on Multi-Layer And Track (2205mil,4650mil)(2205mil,4805mil) on Top Layer 
 Rule Violations :4
-
-Processing Rule : Clearance Constraint (Gap=13.78mil) (Disabled)(All),(All)
-Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0

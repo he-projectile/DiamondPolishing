@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=FID1 Pin=FID1-1
+Added Net: Name=FID1
+Added Pin To Net: NetName=FID2 Pin=FID2-1
+Added Net: Name=FID2
+Added Pin To Net: NetName=FID3 Pin=FID3-1
+Added Net: Name=FID3
+Added Pin To Net: NetName=FID4 Pin=FID4-1
+Added Net: Name=FID4
+Added Pin To Net: NetName=FID5 Pin=FID5-1
+Added Net: Name=FID5
+Added Pin To Net: NetName=FID6 Pin=FID6-1
+Added Net: Name=FID6
+Added Class: Name=FIDUCIAL
