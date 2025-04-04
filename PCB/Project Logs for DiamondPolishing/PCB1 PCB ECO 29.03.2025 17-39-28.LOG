@@ -1,0 +1,1293 @@
+Change Component Comment : Designator=R8 Old Comment=4.7 к New Comment=4,7 к
+Change Component Comment : Designator=C32 Old Comment=10 мк New Comment=22 мк
+Change Component Comment : Designator=C36 Old Comment=10 мк New Comment=22 мк
+Change Component Comment : Designator=C45 Old Comment=10 мк New Comment=22 мк
+Change Component Description : Designator=P3 Old Description= New Description=Винтовой клеммник
+Change Component Description : Designator=P4 Old Description= New Description=Винтовой клеммник
+Change Component Description : Designator=L1 Old Description= New Description=Индуктор
+Change Component Description : Designator=L2 Old Description= New Description=Индуктор
+Change Component Description : Designator=X5 Old Description= New Description=Коннектор под IDC-6
+Change Component Description : Designator=VD2 Old Description= New Description=Мощный диод
+Change Component Description : Designator=VD3 Old Description= New Description=Пара последовательных диодов
+Change Component Description : Designator=VD4 Old Description= New Description=Пара последовательных диодов
+Change Component Description : Designator=VD5 Old Description= New Description=Пара последовательных диодов
+Change Component Description : Designator=VD6 Old Description= New Description=Пара последовательных диодов
+Change Component Description : Designator=U3 Old Description= New Description=Понижающий DC-DC
+Change Component Description : Designator=P1 Old Description= New Description=Раъёмный винтовой клеммник
+Change Component Description : Designator=R47 Old Description= New Description=Резистор
+Change Component Description : Designator=U4 Old Description= New Description=Сборка защитных диодов
+Change Component Description : Designator=U5 Old Description= New Description=Сборка защитных диодов
+Change Component Description : Designator=U6 Old Description= New Description=Сборка защитных диодов
+Change Component Description : Designator=U7 Old Description= New Description=Сборка защитных диодов
+Change Component Description : Designator=U8 Old Description= New Description=Сборка защитных диодов
+Change Component Description : Designator=U9 Old Description= New Description=Сборка защитных диодов
+Change Component Description : Designator=U15 Old Description= New Description=Сборка транзисторов Дарлингтона
+Change Component Description : Designator=U14 Old Description= New Description=Усилитель термопары
+Change Component Description : Designator=X20 Old Description= New Description=Штыревой разъём
+Change Component Description : Designator=U11 Old Description=1 Mbit SPI Bus Serial EEPROM, 8-Pin SOIC, Industrial Temperature, Tape and Reel New Description=FLASH память
+Change Component Description : Designator=U18 Old Description=3V LVDS Quad CMOS Differential Line Driver, 16-pin TSSOP, Pb-Free New Description=Драйвер LVDS
+Change Component Description : Designator=U12 Old Description=16-Bit Delta-Sigma ADC with Internal Reference, PGA and Oscillator, I2C Serial Interface, -40 to 85 degC, 6-pin SOT23 (DBV6), Green (RoHS & no Sb/Br) New Description=АЦП с I2C
+Change Component Description : Designator=U10 Old Description=ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 256 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray New Description=Микроконтроллер
+Change Component Description : Designator=LS1 Old Description=AUDIO MAGNETIC XDCR 3-6V TH New Description=Пищалка
+Change Component Description : Designator=C2 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C4 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C7 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C13 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C14 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C15 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C17 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C19 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C20 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C21 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C25 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C26 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C27 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C28 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C31 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C33 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C34 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C35 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C37 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C38 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C39 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C40 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C41 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C42 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C43 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C44 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C46 Old Description=Capacitor SMD 0603 New Description=Керамический конденсатор
+Change Component Description : Designator=C3 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C6 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C8 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C12 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C18 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C22 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C23 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C24 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C29 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C30 Old Description=Capacitor SMD 0805 New Description=Керамический конденсатор
+Change Component Description : Designator=C9 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C10 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C11 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C16 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C32 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C36 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C45 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Танталовый конденсатор
+Change Component Description : Designator=C1 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Электролитический конденсатор
+Change Component Description : Designator=C5 Old Description=Capacitor SMD Aluminium Electrolytic 16x16.5mm 25V New Description=Электролитический конденсатор
+Change Component Description : Designator=X15 Old Description=Crystal SMD 24MHz 10PPM 7pF 3225 New Description=Кварцевый резонатор
+Change Component Description : Designator=Q1 Old Description=Digital Transistor (BRT), R1=4.7 kOhm, R2=47 kOhm, NPN Transistor, 3-Pin SOT-23, Pb-Free, Tape and Reel New Description=npn транзистор с подтяжками
+Change Component Description : Designator=D4 Old Description=Diode Schottky SMD SMA (DO-214AA) New Description=Диод
+Change Component Description : Designator=VD1 Old Description=Diode Schottky SMD SMC (DO-214AB) New Description=Диод
+Change Component Description : Designator=D1 Old Description=Diode TVS / ESD Bidirectional SMC (DO-214AB) New Description=Защитный диод
+Change Component Description : Designator=D8 Old Description=Diode TVS / ESD Bidirectional SMC (DO-214AB) New Description=Защитный диод
+Change Component Description : Designator=D9 Old Description=Diode TVS / ESD Bidirectional SMC (DO-214AB) New Description=Защитный диод
+Change Component Description : Designator=F1 Old Description=Fuse PPTC SMD 1206 New Description=Самовосстанавливающийся предохранитель
+Change Component Description : Designator=F2 Old Description=Fuse PPTC SMD 1206 New Description=Самовосстанавливающийся предохранитель
+Change Component Description : Designator=F3 Old Description=Fuse PPTC SMD 1206 New Description=Самовосстанавливающийся предохранитель
+Change Component Description : Designator=F4 Old Description=Fuse PPTC SMD 1206 New Description=Самовосстанавливающийся предохранитель
+Change Component Description : Designator=F5 Old Description=Fuse PPTC SMD 1206 New Description=Самовосстанавливающийся предохранитель
+Change Component Description : Designator=F6 Old Description=Fuse PPTC SMD 1206 New Description=Самовосстанавливающийся предохранитель
+Change Component Description : Designator=U2 Old Description=High-Side Measurement, Bi-Directional Current / Power Monitor with I2C Interface, 2.7 to 5.5 V, -40 to 125 degC, 10-pin SOP (DGS10), Green (RoHS & no Sb/Br) New Description=Измеритель мощности
+Change Component Description : Designator=U13 Old Description=IC TRANSCEIVER HALF 1/1 8SOIC New Description=Конвертер UART <-> RS485
+Change Component Description : Designator=U19 Old Description=Industrial CAN Transceiver, 65 mA, 5 V, -40 to 125 degC, 8-pin SOIC (D), Green (RoHS & no Sb/Br) New Description=Драйвер CAN
+Change Component Description : Designator=D2 Old Description=LED 0603 GREEN SMD New Description=Зелёный светодиод
+Change Component Description : Designator=D3 Old Description=LED 0603 GREEN SMD New Description=Зелёный светодиод
+Change Component Description : Designator=D6 Old Description=LED 0603 YELLOW SMD New Description=Жёлтый светодиод
+Change Component Description : Designator=D10 Old Description=LED 0603 YELLOW SMD New Description=Жёлтый светодиод
+Change Component Description : Designator=D7 Old Description=LED 0805 BLUE SMD New Description=Синий светодиод
+Change Component Description : Designator=D11 Old Description=LED 0805 BLUE SMD New Description=Синий светодиод
+Change Component Description : Designator=P2 Old Description=Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 9 mm, Tail Length 3.5 mm New Description=Винтовой клеммник
+Change Component Description : Designator=X19 Old Description=Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 9 mm, Tail Length 3.5 mm New Description=Рахъёмный винтовой клеммник
+Change Component Description : Designator=R1 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R2 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R3 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R4 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R5 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R6 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R7 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R8 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R9 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R12 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R13 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R14 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R15 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R16 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R17 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R18 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R19 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R20 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R21 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R22 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R23 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R24 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R25 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R26 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R27 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R28 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R29 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R30 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R31 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R32 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R33 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R34 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R35 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R36 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R37 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R38 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R39 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R40 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R41 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R42 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R43 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R44 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R45 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R46 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R48 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R49 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R50 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R51 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R52 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R53 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R54 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R55 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R56 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R57 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R58 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R59 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R60 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R61 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R62 Old Description=Resistor SMD 0603 New Description=Резистор
+Change Component Description : Designator=R10 Old Description=Resistor SMD 0805 New Description=Резистор
+Change Component Description : Designator=R11 Old Description=Resistor SMD 0805 New Description=Резистор
+Change Component Description : Designator=D5 Old Description=RGB LED Common Anode SMD Diffused 0805 Top View New Description=RGB светодиод
+Change Component Description : Designator=U1 Old Description=SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220 New Description=Понижающий DC-DC
+Change Component Description : Designator=U16 Old Description=Single-Bit Dual-Supply Bus Transceiver with Configurable Voltage Translation and 3-State Outputs, DCK0006A, LARGE T&R New Description=Конвертер уровней
+Change Component Description : Designator=U17 Old Description=Single-Bit Dual-Supply Bus Transceiver with Configurable Voltage Translation and 3-State Outputs, DCK0006A, LARGE T&R New Description=Конвертер уровней
+Change Component Description : Designator=SW1 Old Description=SWITCH TACTILE SPST-NO 0.05A 16V New Description=Кнопка
+Change Component Description : Designator=SW2 Old Description=SWITCH TACTILE SPST-NO 0.05A 16V New Description=Кнопка
+Change Component Description : Designator=SW3 Old Description=SWITCH TACTILE SPST-NO 0.05A 16V New Description=Кнопка
+Change Component Description : Designator=TP1 Old Description=Test Point Round 1mm (NO BOM) New Description=
+Change Component Description : Designator=TP2 Old Description=Test Point Round 1mm (NO BOM) New Description=
+Change Component Description : Designator=TP3 Old Description=Test Point Round 1mm (NO BOM) New Description=
+Change component parameters: Designator = "C1"; Footprint = "D10C5H12.5"; UniqueID = "\PMJAYKKX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000565903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "JRB1H221M05001000120000B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_ELECTROLYTIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAP_0603"; UniqueID = "\HNAUMDAD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAP_0805"; UniqueID = "\EDKAFDJU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAP_0603"; UniqueID = "\UCUPUCGU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "D8C3.5H12"; UniqueID = "\QGIFWZYE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000565907"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "JRB1C331M03500800120000B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_ELECTROLYTIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAP_0603"; UniqueID = "\XSPUKMPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 н"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAP_0603"; UniqueID = "\XQPTKQCU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "CAP_0603"; UniqueID = "\LBVCYDKV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "TANTAL_B"; UniqueID = "\QPBNZVGV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "TANTAL_B"; UniqueID = "\GXWWXZNI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "TANTAL_B"; UniqueID = "\MMLCQQNL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAP_0805"; UniqueID = "\BHTKKSKV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAP_0603"; UniqueID = "\VZYXTCDZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAP_0603"; UniqueID = "\KUXUVKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "CAP_0603"; UniqueID = "\DROLMNAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "TANTAL_B"; UniqueID = "\GGFDZLAT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "CAP_0603"; UniqueID = "\MBFGHTSM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "CAP_0805"; UniqueID = "\VRPVZMDU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "CAP_0603"; UniqueID = "\GITXMVVD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "CAP_0603"; UniqueID = "\MSVUVKGR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "CAP_0603"; UniqueID = "\ULNGDRZB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "CAP_0805"; UniqueID = "\VDTLOOPE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "CAP_0805"; UniqueID = "\ZLMPICXG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "CAP_0805"; UniqueID = "\SBYZNMNY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "CAP_0603"; UniqueID = "\UXKUTBOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "CAP_0603"; UniqueID = "\KYKJCEAV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CAP_0603"; UniqueID = "\QICIZCZX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "CAP_0603"; UniqueID = "\GZDFSWEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29"; Footprint = "CAP_0805"; UniqueID = "\NUGFOEMG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "CAP_0805"; UniqueID = "\LGYKJASQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31"; Footprint = "CAP_0603"; UniqueID = "\DMPCOSRH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33"; Footprint = "CAP_0603"; UniqueID = "\ELPZPYKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34"; Footprint = "CAP_0603"; UniqueID = "\JMDGNLBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35"; Footprint = "CAP_0603"; UniqueID = "\LOYRMWSN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37"; Footprint = "CAP_0603"; UniqueID = "\FJKSVJBC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38"; Footprint = "CAP_0603"; UniqueID = "\PVBYPJBI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "CAP_0603"; UniqueID = "\DOXGHRKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40"; Footprint = "CAP_0603"; UniqueID = "\HLMVCMWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41"; Footprint = "CAP_0603"; UniqueID = "\FBWGMQCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42"; Footprint = "CAP_0603"; UniqueID = "\YIIMJLBK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43"; Footprint = "CAP_0603"; UniqueID = "\MYGTOKBX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C44"; Footprint = "CAP_0603"; UniqueID = "\IAVSWCNT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C46"; Footprint = "CAP_0603"; UniqueID = "\FSYXPAPK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "SMC-DO-214AB"; UniqueID = "\BGGVUTEA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001169270"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "1.5SMC6.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5 В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "LED_0603_GREEN"; UniqueID = "\PRKTRWTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "LED_0603_GREEN"; UniqueID = "\SUAMYBSM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "DO-214AC-2 (SMA)"; UniqueID = "\UIOPYXXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001106111"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SS24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5"; Footprint = "150080M153000"; UniqueID = "\HQJLTVFE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001271035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "FYLS-0605RGBC-CA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "LED_0603_YELLOW"; UniqueID = "\CERQWKFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "YELLOW"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7"; Footprint = "LED_0603_BLUE"; UniqueID = "\ZNMTJFEC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BLUE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8"; Footprint = "SMA"; UniqueID = "\TULAHMFH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SMAJ6.0CA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "9001169246"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9"; Footprint = "SMA"; UniqueID = "\JZXOXTNG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SMAJ6.0CA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "9001169246"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10"; Footprint = "LED_0603_YELLOW"; UniqueID = "\ITTNVFCQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "YELLOW"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11"; Footprint = "LED_0603_BLUE"; UniqueID = "\LSAWNQPD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BLUE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1"; Footprint = "FUSE_1206"; UniqueID = "\CESFPRFO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000072610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MF-NSMF012-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,12 А"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2"; Footprint = "FUSE_1206"; UniqueID = "\CEGRHQQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000072610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MF-NSMF012-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,12 А"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F3"; Footprint = "FUSE_1206"; UniqueID = "\YQUWNYPZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000072610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MF-NSMF012-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,12 А"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F4"; Footprint = "FUSE_1206"; UniqueID = "\IERJGVEU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000072610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MF-NSMF012-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,12 А"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F5"; Footprint = "FUSE_1206"; UniqueID = "\CGKEXTVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000072610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MF-NSMF012-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,12 А"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F6"; Footprint = "FUSE_1206"; UniqueID = "\PLAICCVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000072610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MF-NSMF012-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,12 А"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "IND: B82477G4"; UniqueID = "\TDXFIFNS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "450851416"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "B82477G4334M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "NRS5020"; UniqueID = "\OVFWBOSU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "450851416"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LS1"; Footprint = "FP-SD1209-MFG"; UniqueID = "\SRZEVMLZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000783782"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "HC0905T/208"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SOUND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "PHOE-1725656-2"; UniqueID = "\RHFIRSDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "63066"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "DG308-2.54-02P-14-00AH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "ONSC-SOT-23-3-318-08_V"; UniqueID = "\JLEOEPHK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8021345115"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/DTC143Z-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/318-08.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MMUN2233LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "MOSFET"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RES_0603"; UniqueID = "\PUTWYCHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "ch2512r"; UniqueID = "\VKWHTDUS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8001939518"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "CRE2512-FZ-R002E-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,002"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES_0603"; UniqueID = "\KJPOUZQL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RES_0603"; UniqueID = "\UJLIKPWQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3,3 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RES_0603"; UniqueID = "\GNGQNNYC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RES_0603"; UniqueID = "\TUMZITDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RES_0603"; UniqueID = "\JZRBLIKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5,1 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RES_0603"; UniqueID = "\JVFISTMN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RES_0603"; UniqueID = "\KIACAAUU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "31,25 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RES_0603"; UniqueID = "\LIYUUHKN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RES_0603"; UniqueID = "\PWXDZGDR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RES_0603"; UniqueID = "\JSIGPPCL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "RES_0603"; UniqueID = "\DIWYMAQV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "RES_0603"; UniqueID = "\EMSFDTPT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RES_0603"; UniqueID = "\ILOGNEAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RES_0603"; UniqueID = "\MTJGVMHW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RES_0603"; UniqueID = "\FJXQYFQO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "RES_0603"; UniqueID = "\KEHHEMNX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20"; Footprint = "RES_0603"; UniqueID = "\TCHECSMY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "RES_0603"; UniqueID = "\TPJDIKWW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RES_0603"; UniqueID = "\CXBUQTBY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "RES_0603"; UniqueID = "\USXWZDSA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "RES_0603"; UniqueID = "\KOQFMYOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "RES_0603"; UniqueID = "\WKVSWTEB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26"; Footprint = "RES_0603"; UniqueID = "\VDTBURNG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "RES_0603"; UniqueID = "\THBWMQNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "RES_0603"; UniqueID = "\MVYFOUWG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "RES_0603"; UniqueID = "\SAAVTNRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "RES_0603"; UniqueID = "\COIVKLCY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "RES_0603"; UniqueID = "\VEWFKCGT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32"; Footprint = "RES_0603"; UniqueID = "\DEKMMCNP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33"; Footprint = "RES_0603"; UniqueID = "\CNRGAEMU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "RES_0603"; UniqueID = "\NDILHFWF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35"; Footprint = "RES_0603"; UniqueID = "\TIFCQFHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36"; Footprint = "RES_0603"; UniqueID = "\PJSPHFNQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "RES_0603"; UniqueID = "\QROLACQJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38"; Footprint = "RES_0603"; UniqueID = "\ZJBELIFK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39"; Footprint = "RES_0603"; UniqueID = "\HPWKRSMB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "RES_0603"; UniqueID = "\WRIPPFGN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41"; Footprint = "RES_0603"; UniqueID = "\RSIWWYII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42"; Footprint = "RES_0603"; UniqueID = "\KIPGMUIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43"; Footprint = "RES_0603"; UniqueID = "\GAHYFGUN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44"; Footprint = "RES_0603"; UniqueID = "\MUSAEZYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45"; Footprint = "RES_0603"; UniqueID = "\GCNCMXIW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46"; Footprint = "RES_0603"; UniqueID = "\FMMLHKFC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000079731"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6,2 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47"; Footprint = "OMTE-RES7X2.5-2"; UniqueID = "\DIPYSZMR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "1471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "CF-100 (С1-4)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48"; Footprint = "RES_0603"; UniqueID = "\ITJRCPNB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49"; Footprint = "RES_0603"; UniqueID = "\DUEPOIBZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50"; Footprint = "RES_0603"; UniqueID = "\ICMHIUOS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 М"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R51"; Footprint = "RES_0603"; UniqueID = "\PDIBSFAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52"; Footprint = "RES_0603"; UniqueID = "\BMFGJKCR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53"; Footprint = "RES_0603"; UniqueID = "\YWEHILUW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54"; Footprint = "RES_0603"; UniqueID = "\JHWWTWMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55"; Footprint = "RES_0603"; UniqueID = "\GCIADHLR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56"; Footprint = "RES_0603"; UniqueID = "\YWIVCRVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R57"; Footprint = "RES_0603"; UniqueID = "\GMDRYHUP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58"; Footprint = "RES_0603"; UniqueID = "\CAVLBMKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R59"; Footprint = "RES_0603"; UniqueID = "\DTYSUJVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R60"; Footprint = "RES_0603"; UniqueID = "\POPEFUZQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61"; Footprint = "RES_0603"; UniqueID = "\WAUEQSZI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R62"; Footprint = "RES_0603"; UniqueID = "\XUSBWMBS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "FP-PTS810_SJG_250_SMTR_LF-MFG"; UniqueID = "\VIBQURPL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000372886"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "KLS7-TS3401- 2,5-180"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SWITCH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2"; Footprint = "FP-PTS810_SJG_250_SMTR_LF-MFG"; UniqueID = "\NMOMDPSC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000372886"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "KLS7-TS3401- 2,5-180"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SWITCH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3"; Footprint = "FP-PTS810_SJG_250_SMTR_LF-MFG"; UniqueID = "\PTVGPGAM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000372886"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "KLS7-TS3401- 2,5-180"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SWITCH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "KC0005A"; UniqueID = "\GVBXTPNM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000135775"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM2576HV&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "LM2576HVT-ADJ/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "DGS0010A_L"; UniqueID = "\XMBNHZPG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8026989887"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=INA226&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ml/mpds035b/mpds035b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "INA226AIDGSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "NXP-SOT457_L"; UniqueID = "\XNRWLDJZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5"; Footprint = "NXP-SOT457_L"; UniqueID = "\AAEZBQJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6"; Footprint = "NXP-SOT457_L"; UniqueID = "\WYLZHRLV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "NXP-SOT457_L"; UniqueID = "\JABOCYOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8"; Footprint = "NXP-SOT457_L"; UniqueID = "\JGKAWVOX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U9"; Footprint = "NXP-SOT457_L"; UniqueID = "\WDTPJVCR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001067611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "IP4220CZ6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U10"; Footprint = "STM-LQFP100_M"; UniqueID = "\YYQMFOSC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001570276"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "STM32F427VGT6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U12"; Footprint = "TI-DBV6_M"; UniqueID = "\UAGLKSHN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "2502826194"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=ADS1110&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds026h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "ADS1110A0IDBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U14"; Footprint = "FP-RM-8-IPC_A"; UniqueID = "\AORFLRKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000996824"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "AD8495CRMZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U15"; Footprint = "D0016A_M"; UniqueID = "\LPKLNZYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629083"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "TBD62003AFWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U16"; Footprint = "DCK0006A_L"; UniqueID = "\BCBOOBFK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000140400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SN74LVC1T45DCKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U17"; Footprint = "DCK0006A_L"; UniqueID = "\WDTFFLDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000140400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SN74LVC1T45DCKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U18"; Footprint = "MTC16_M"; UniqueID = "\HLUSQRPG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000448213"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DS90LV047A Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/DS/DS90LV047A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DS90LV047A Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/DS/DS90LV047A.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "MTC16 Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mtc16.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "DS90LV047ATMTC/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U19"; Footprint = "D0008A_N"; UniqueID = "\VIQJGWZY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000342409"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN65HVD251&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "SN65HVD251DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD1"; Footprint = "SMC-DO-214AB"; UniqueID = "\BRPJNRDK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000982605"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SS36C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD2"; Footprint = "ONSC-TO-220-2-221B-04_E"; UniqueID = "\MMUFUSVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000520102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MBR1635-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BYW29-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "MBR1645G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3"; Footprint = "ONSC-SOT-323-3-419-04_V"; UniqueID = "\LPNAHOCV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001106105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/BAT54SWT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/419-04.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "BAT54S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD4"; Footprint = "ONSC-SOT-323-3-419-04_V"; UniqueID = "\GISUMBJC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001106105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/BAT54SWT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/419-04.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "BAT54S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD5"; Footprint = "ONSC-SOT-323-3-419-04_V"; UniqueID = "\SUGZHCBH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001106105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/BAT54SWT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/419-04.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "BAT54S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD6"; Footprint = "ONSC-SOT-323-3-419-04_V"; UniqueID = "\DDXYJYWP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001106105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/BAT54SWT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/419-04.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "BAT54S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X5"; Footprint = "CON: IDC-6MS"; UniqueID = "\BOFQJEYZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000058155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "BH-06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X15"; Footprint = "XTAL_3225"; UniqueID = "\BSMASMLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8026581531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "X322525MOB4SI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CRYSTAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "25 M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X19"; Footprint = "PHOE-1725656-2"; UniqueID = "\PXZEAODX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "63066"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "DG308-2.54-02P-14-00AH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X20"; Footprint = "CON: WF-04"; UniqueID = "\GIXYGVGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8007166683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "WF-04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "691321100002"; UniqueID = "\NLAJOEHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8025411938"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNETOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "691321100003"; UniqueID = "\VFVQJHGD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000592977"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-03P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "SOT-23-6"; UniqueID = "\XSNUJZVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8026700717"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "RY8310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U11"; Footprint = "SOIJ-SM8_L"; UniqueID = "\AHPLRHRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000196726"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "W25Q32BVSSIG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U13"; Footprint = "FP-D0008A-MFG"; UniqueID = "\DKMKNELI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9001699468"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/sn65hvd11.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "TP8485E-SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FID1"; Footprint = "FIDUCIAL"; UniqueID = "\AEXJQXKD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FID2"; Footprint = "FIDUCIAL"; UniqueID = "\QZAOTTPC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FID3"; Footprint = "FIDUCIAL"; UniqueID = "\GKMJXMZL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FID4"; Footprint = "FIDUCIAL"; UniqueID = "\NDYJZFGJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FID5"; Footprint = "FIDUCIAL"; UniqueID = "\VDJZOYTZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FID6"; Footprint = "FIDUCIAL"; UniqueID = "\SWRUBIZK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RES_0603"; UniqueID = "\FTAOHGIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4"; Footprint = "691321100005"; UniqueID = "\CAZIVDDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8754518577"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "15EDGVC-3.5-05P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32"; Footprint = "TANTAL_B"; UniqueID = "\YKUHUMTE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36"; Footprint = "TANTAL_B"; UniqueID = "\LUYYKJRB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C45"; Footprint = "TANTAL_B"; UniqueID = "\OJZEZMVL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000629219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
