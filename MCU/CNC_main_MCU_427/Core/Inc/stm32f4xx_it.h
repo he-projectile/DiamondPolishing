@@ -6,7 +6,7 @@
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) 2024 STMicroelectronics.
+  * <h2><center>&copy; Copyright (c) 2025 STMicroelectronics.
   * All rights reserved.</center></h2>
   *
   * This software component is licensed by ST under BSD 3-Clause license,
@@ -56,15 +56,9 @@ void SVC_Handler(void);
 void DebugMon_Handler(void);
 void PendSV_Handler(void);
 void SysTick_Handler(void);
-void DMA1_Stream0_IRQHandler(void);
-void DMA1_Stream6_IRQHandler(void);
-void ADC_IRQHandler(void);
-void TIM3_IRQHandler(void);
-void USART1_IRQHandler(void);
-void TIM5_IRQHandler(void);
-void DMA2_Stream2_IRQHandler(void);
-void OTG_FS_IRQHandler(void);
-void UART8_IRQHandler(void);
+void DMA1_Stream4_IRQHandler(void);
+void I2C3_ER_IRQHandler(void);
+void UART7_IRQHandler(void);
 /* USER CODE BEGIN EFP */
 
 /* USER CODE END EFP */
