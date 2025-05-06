@@ -58,6 +58,7 @@
 /* External variables --------------------------------------------------------*/
 extern I2C_HandleTypeDef hi2c3;
 extern DMA_HandleTypeDef hdma_tim3_ch1_trig;
+extern DMA_HandleTypeDef hdma_tim3_ch3;
 extern UART_HandleTypeDef huart7;
 /* USER CODE BEGIN EV */
 
@@ -213,6 +214,20 @@ void DMA1_Stream4_IRQHandler(void)
   /* USER CODE BEGIN DMA1_Stream4_IRQn 1 */
 
   /* USER CODE END DMA1_Stream4_IRQn 1 */
+}
+
+/**
+  * @brief This function handles DMA1 stream7 global interrupt.
+  */
+void DMA1_Stream7_IRQHandler(void)
+{
+  /* USER CODE BEGIN DMA1_Stream7_IRQn 0 */
+
+  /* USER CODE END DMA1_Stream7_IRQn 0 */
+  HAL_DMA_IRQHandler(&hdma_tim3_ch3);
+  /* USER CODE BEGIN DMA1_Stream7_IRQn 1 */
+
+  /* USER CODE END DMA1_Stream7_IRQn 1 */
 }
 
 /**

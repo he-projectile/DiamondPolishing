@@ -50,7 +50,7 @@
 
 /* USER CODE BEGIN PV */
 uint16_t sine[1000] = {0};
-uint8_t i2cData[2] = {0}; 
+uint8_t i2cData[3] = {0}; 
 float temp = 0;
 uint8_t i2cStatus = 0xff;
 /* USER CODE END PV */
@@ -97,8 +97,8 @@ int main(void)
   MX_CAN1_Init();
   MX_DMA_Init();
   MX_UART7_Init();
-  MX_I2C3_Init();
   MX_TIM3_Init();
+  MX_I2C3_Init();
   /* USER CODE BEGIN 2 */
 	for (uint16_t i = 0; i < 1000; i++){
 		sine[i] = (float) (sinf(2*3.14159*i/1000)+1)*499;
@@ -111,27 +111,28 @@ int main(void)
 	htim3.Instance -> CCR3 = 0;
 	htim3.Instance -> CCR4 = htim3.Instance -> ARR + 1;
 //	HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_1);
-	HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
+	//HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
 	//HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_3);
 	HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_4);
 	HAL_TIM_PWM_Start_DMA(&htim3, TIM_CHANNEL_1, (uint32_t*) sine, 1000);
+	//HAL_TIM_PWM_Start_DMA(&htim3, TIM_CHANNEL_3, (uint32_t*) sine, 1000);
 	
-	
-	
+	//i2cData[0] = 0x0C;
+	//i2cStatus = HAL_I2C_Mem_Write(&hi2c3, (I2C_ADC_ADDR)<<1, 0, I2C_MEMADD_SIZE_8BIT, i2cData, 1, HAL_MAX_DELAY);
+	//i2cStatus = HAL_I2C_Master_Transmit(&hi2c3, (I2C_ADC_ADDR)<<1, i2cData, 1, HAL_MAX_DELAY);
+	HAL_Delay(100);
 
-//	for ( uint8_t i = 0; i < 8; i++){
-//		HAL_I2C_Mem_Read(&hi2c3, (I2C_ADC_ADDR+i)<<1, 0, I2C_MEMADD_SIZE_8BIT, i2cData, 3, 1000);
-//		HAL_Delay(100);
-//	}
-//	
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
-  {
+  {	
+//		i2cData[0] = 0x0C;
+//		i2cStatus = HAL_I2C_Master_Transmit(&hi2c3, (I2C_ADC_ADDR)<<1, i2cData, 1, HAL_MAX_DELAY);
+//		HAL_Delay(100);
 		i2cStatus = HAL_I2C_Mem_Read(&hi2c3, (I2C_ADC_ADDR)<<1, 0, I2C_MEMADD_SIZE_8BIT, i2cData, 2, HAL_MAX_DELAY);
-		temp = (uint16_t) (i2cData[0]<<8 | i2cData[1]);
+		temp = (float)((uint16_t) (i2cData[0]<<8 | i2cData[1]))/2048/1*2.048/0.005*(10+6.2)/10;
 		HAL_Delay(100);
 		
 
