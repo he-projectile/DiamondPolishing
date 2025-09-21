@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3.3 V Pin=L3-2
+Removed Pin From Net: NetName=VREF Pin=U10-1
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Member From Class: ClassName=Sheet1 Member=L3
+Removed Member From Class: ClassName=Sheet1 Member=U10
+Change Component Comment : Designator=C27 Old Comment=4,7 לך New Comment=0,1 לך
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAP_0603"; UniqueID = "\WYFERWSR" ("\WYFERWSR")
+Change component parameters (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1 לך"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DBZ0003A_N)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=REF3020&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds108a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Samples URL:http://www.ti.com/product/ref3020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "REF3030AIDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=C26-1
+Added Pin To Net: NetName=VREF Pin=C27-2
+Added Pin To Net: NetName=3.3 V Pin=U?-1
+Added Pin To Net: NetName=VREF Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Member To Class: ClassName=Sheet1 Member=Component U? REF3030AIDBZR

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=5 V Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Change Component Footprint: Designator=C15 Old Footprint=TANTAL_B New Footprint=CAP_TANT_0603
+Change Component Comment : Designator=C15 Old Comment=22 לך New Comment=10 לך
+Change component parameters: Designator = "C15" ("C15"); Footprint = "TANTAL_B"; UniqueID = "\YFKNRQGD" ("\YFKNRQGD")
+Change component parameters (AddParameter): Name = "ChipDip"; Value = "8020338465"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_TANTALUM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 לך"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6,3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5 V Pin=C15-A
+Added Pin To Net: NetName=GND Pin=C15-K
+Added Member To Class: ClassName=Sheet1 Member=Component C17 4,7 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C18 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C19 12
+Added Member To Class: ClassName=Sheet1 Member=Component C20 12
+Added Member To Class: ClassName=Sheet1 Member=Component C21 4,7 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C22 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C23 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C24 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C25 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component L3 120 ־ל
+Added Member To Class: ClassName=Sheet1 Member=Component R11 10 ך
+Added Room: Name=Sheet1
+Added Room: Name=U_Motor_Module

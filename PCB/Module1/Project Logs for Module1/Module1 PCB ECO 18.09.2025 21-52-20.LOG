@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=COCK_N Pin=U4-4
+Removed Pin From Net: NetName=COCK Pin=U4-14
+Added Pin To Net: NetName=COCK_N Pin=U4-5
+Added Pin To Net: NetName=COCK_P Pin=U4-6
+Added Pin To Net: NetName=COCK Pin=U4-11

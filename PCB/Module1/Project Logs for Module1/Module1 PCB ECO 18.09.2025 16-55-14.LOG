@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=M_MODE_2 Pin=RA2-1
+Removed Pin From Net: NetName=M_MODE_1 Pin=RA2-2
+Removed Pin From Net: NetName=M_MODE_0 Pin=RA2-3
+Removed Pin From Net: NetName=M_STEP Pin=RA2-4
+Added Pin To Net: NetName=M_STEP Pin=RA2-1
+Added Pin To Net: NetName=M_MODE_0 Pin=RA2-2
+Added Pin To Net: NetName=M_MODE_1 Pin=RA2-3
+Added Pin To Net: NetName=M_MODE_2 Pin=RA2-4

@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=3.3 V Pin=D1-A
+Removed Pin From Net: NetName=5 V Pin=D2-A
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=CURRENT_REF Pin=TP3-1
+Removed Pin From Net: NetName=3.3 V Pin=TP7-1
+Removed Pin From Net: NetName=5 V Pin=TP8-1
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Removed Member From Class: ClassName=U_Motor_Module Member=TP1
+Removed Member From Class: ClassName=U_Motor_Module Member=TP2
+Removed Member From Class: ClassName=U_Motor_Module Member=TP3
+Removed Member From Class: ClassName=Sheet1 Member=TP7
+Removed Member From Class: ClassName=Sheet1 Member=TP8
+Removed Member From Class: ClassName=Power_line Member=NetC7_2
+Removed Member From Class: ClassName=Power_line Member=NetC14_2
+Change Component Comment : Designator=C5 Old Comment=0,1 לך New Comment=0,47 לך
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=C8 NewDesignator=C?
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C12 NewDesignator=C?
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Change Component Designator: OldDesignator=C14 NewDesignator=C?
+Change Component Designator: OldDesignator=C15 NewDesignator=C?
+Change Component Designator: OldDesignator=C16 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=C20 NewDesignator=C?
+Change Component Designator: OldDesignator=C21 NewDesignator=C?
+Change Component Designator: OldDesignator=C22 NewDesignator=C?
+Change Component Designator: OldDesignator=C23 NewDesignator=C?
+Change Component Designator: OldDesignator=C24 NewDesignator=C?
+Change Component Designator: OldDesignator=C25 NewDesignator=C?
+Change Component Designator: OldDesignator=C26 NewDesignator=C?
+Change Component Designator: OldDesignator=C27 NewDesignator=C?
+Change Component Designator: OldDesignator=C28 NewDesignator=C?
+Change Component Designator: OldDesignator=C29 NewDesignator=C?
+Change Component Designator: OldDesignator=C30 NewDesignator=C?
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Component Designator: OldDesignator=L2 NewDesignator=L?
+Change Component Designator: OldDesignator=L3 NewDesignator=L?
+Change Component Designator: OldDesignator=L4 NewDesignator=L?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?
+Change Component Designator: OldDesignator=R12 NewDesignator=R?
+Change Component Designator: OldDesignator=R13 NewDesignator=R?
+Change Component Designator: OldDesignator=R14 NewDesignator=R?
+Change Component Designator: OldDesignator=R15 NewDesignator=R?
+Change Component Designator: OldDesignator=R16 NewDesignator=R?
+Change Component Designator: OldDesignator=R17 NewDesignator=R?
+Change Component Designator: OldDesignator=R18 NewDesignator=R?
+Change Component Designator: OldDesignator=RA1 NewDesignator=RA?
+Change Component Designator: OldDesignator=RA2 NewDesignator=RA?
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Change Component Designator: OldDesignator=U5 NewDesignator=U?
+Change Component Designator: OldDesignator=U6 NewDesignator=U?
+Change Component Designator: OldDesignator=U7 NewDesignator=U?
+Change Component Designator: OldDesignator=U8 NewDesignator=U?
+Change Component Designator: OldDesignator=U9 NewDesignator=U?
+Change Component Designator: OldDesignator=X1 NewDesignator=X?
+Change Component Designator: OldDesignator=X2 NewDesignator=X?
+Change Component Designator: OldDesignator=X3 NewDesignator=X?
+Change Component Designator: OldDesignator=X4 NewDesignator=X?
+Change Component Designator: OldDesignator=X5 NewDesignator=X?
+Change component parameters: Designator = "C?"; Footprint = "CAP_0805"; UniqueID = "\APVRKUGQ\ATKSBEUZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,47 לך"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetU1_5 New Net Name=NetU?_5
+Change Net Name : Old Net Name=NetU1_7 New Net Name=NetU?_7
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetU?_8
+Change Net Name : Old Net Name=NetU1_10 New Net Name=NetU?_10
+Added Pin To Net: NetName=DECAY Pin=U?-19
+Added Net: Name=DECAY
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C? 4,7 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C? 12
+Added Member To Class: ClassName=Sheet1 Member=Component U? IP4220CZ6
+Added Member To Class: ClassName=Sheet1 Member=Component U? SN65LVDS048APWR
+Added Member To Class: ClassName=Sheet1 Member=Component U? SN65HVD251DR
+Added Member To Class: ClassName=Sheet1 Member=Component X? *
+Added Member To Class: ClassName=Sheet1 Member=Component X? 25 M
+Added Member To Class: ClassName=Power_line Member=Wire NetC?_2

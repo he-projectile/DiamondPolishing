@@ -1,0 +1,223 @@
+﻿Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 2;Prepreg;Altium Designer;PP-006;;2,8;;4,1;0,02;;;;1080;;62;1;356
+2;Layer 1;Signal;Altium Designer;CF-004;ED;1,378;1;;;Not allowed;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+3;Layer 2;Signal;Altium Designer;CF-004;ED;1,378;1;;;Not allowed;Copper Foil;;;;;;
+;Dielectric 3;Prepreg;Altium Designer;PP-006;;2,8;;4,1;0,02;;;;1080;;62;1;356
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Description;Color;Constructions;Solid (%);Resin (%);Material Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+1;Top Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Top;Copper Foil;;;;;;
+;Dielectric 1;Core;;FR4;;59,055;;4,6;;;;;;;;;
+4;Bottom Layer;Signal;Altium Designer;CF-004;ED;1,378;1;;;Bottom;Copper Foil;;;;;;
+;Bottom Solder;Solder Mask;Altium Designer;SM-002;;1;;4;0,03;;Solder Mask;#FF000000;;1;;1;257
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+
+No impedances
+
+Via types
+#;Name;Type;Layers;Stack
+1;Thru 1:4;Thru;Top Layer-Bottom Layer;Board Layer Stack
+
+2;Thru 1:4;Thru;Top Layer-Bottom Layer;Board Layer Stack
+
+
+No back drills
