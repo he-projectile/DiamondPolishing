@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=M_DIR Pin=RA1-1
+Removed Pin From Net: NetName=M_RESET Pin=RA1-4
+Removed Pin From Net: NetName=GND Pin=RA1-5
+Removed Pin From Net: NetName=GND Pin=RA1-6
+Removed Pin From Net: NetName=GND Pin=RA1-7
+Removed Pin From Net: NetName=GND Pin=RA1-8
+Removed Member From Class: ClassName=U_Motor_Module Member=RA1
+Added Component: Designator=R17(RES_0603)
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0603)
+Add component (AddParameter): Name = "Type"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=M_RESET Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=M_DIR Pin=R18-2
+Added Member To Class: ClassName=U_Motor_Module Member=Component R17 10 ê
+Added Member To Class: ClassName=U_Motor_Module Member=Component R18 10 ê
+Added Room: Name=Sheet1
+Added Room: Name=U_Motor_Module

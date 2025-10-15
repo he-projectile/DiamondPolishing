@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=3.3 V Pin=U10-1
+Added Component: Designator=C6(CAP_0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 לך"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP_0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 לך"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP_0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 לך"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CAP_CERAMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 לך"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND_0603)
+Add component (AddParameter): Name = "ChipDip"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IND_SUP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120 ־ל"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=3.3 V Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=5 V Pin=C32-2
+Added Pin To Net: NetName=5 V Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=3.3 V Pin=L3-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U10-1
+Added Net: Name=NetL3_1
+Added Member To Class: ClassName=Sheet1 Member=Component C6 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C31 4,7 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C32 4,7 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C33 0,1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component L3 120 ־ל

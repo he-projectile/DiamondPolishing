@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=M_DIR Pin=U5-12
+Removed Pin From Net: NetName=M_STEP Pin=U5-14
+Removed Pin From Net: NetName=M_EN Pin=U5-15
+Added Pin To Net: NetName=M_EN Pin=U5-12
+Added Pin To Net: NetName=M_DIR Pin=U5-14
+Added Pin To Net: NetName=M_STEP Pin=U5-15
+Added Room: Name=Sheet1
+Added Room: Name=U_Motor_Module

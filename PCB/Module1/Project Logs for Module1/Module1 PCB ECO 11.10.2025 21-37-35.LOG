@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UART_RX Pin=U9-4
+Removed Pin From Net: NetName=UART_TX Pin=U9-6
+Added Room: Name=Sheet1
+Added Room: Name=U_Motor_Module
