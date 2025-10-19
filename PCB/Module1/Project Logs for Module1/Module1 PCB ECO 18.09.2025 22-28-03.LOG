@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=3.3 V Pin=L3-2
-Removed Pin From Net: NetName=VREF Pin=U10-1
-Change Component Comment : Designator=C27 Old Comment=4,7 לך New Comment=0,1 לך
-Added Pin To Net: NetName=3.3 V Pin=C26-1
-Added Pin To Net: NetName=VREF Pin=C27-2
-Added Pin To Net: NetName=3.3 V Pin=U10-1
-Added Pin To Net: NetName=VREF Pin=U10-2
-Added Member To Class: ClassName=Sheet1 Member=Component U10 REF3030AIDBZR

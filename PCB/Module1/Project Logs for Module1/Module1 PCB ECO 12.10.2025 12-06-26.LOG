@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=STOP Pin=U5-28
-Removed Pin From Net: NetName=SYNC Pin=U5-29
-Added Pin To Net: NetName=STOP Pin=U5-3
-Added Pin To Net: NetName=SYNC Pin=U5-4

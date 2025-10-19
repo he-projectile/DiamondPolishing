@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=M_EN Pin=U5-12
-Removed Pin From Net: NetName=CURRENT_REF Pin=U5-13
-Added Pin To Net: NetName=CURRENT_REF Pin=U5-12
-Added Pin To Net: NetName=M_EN Pin=U5-13

@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=L2 Old Footprint=IND_1008 New Footprint=FP-LQM21PH_G0-IPC_C
-Change Managed Component Library Link : Designator=L2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=5EB864EA-1C23-433A-B7DE-03A15916E0BB Old RevisionGUID= New RevisionGUID=24A0A217-06AF-4190-81B2-131EA65BD48F
-Change component parameters: Designator = "L2" ("L2"); Footprint = "IND_1008"; UniqueID = "\AZWTZOKC" ("\AZWTZOKC")
-Change component parameters (AddParameter): Name = "ChipDip"; Value = "9000688096"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Type"; Value = "IND"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "4,7 לך"; VariantName = "[No Variations]"
-Added Room: Name=Sheet1
-Added Room: Name=U_Motor_Module
