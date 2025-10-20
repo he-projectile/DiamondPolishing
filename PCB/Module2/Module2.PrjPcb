@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WAPUAJQN
 
 [Document7]
 DocumentPath=..\BarkockLib.SchLib
@@ -190,66 +190,70 @@ DocumentPath=Project Outputs for Module1\Design Rule Check - Module1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Module1\Module1.DRR
+DocumentPath=Project Outputs for Module2\Design Rule Check - Module2.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Module1\Module1.EXTREP
+DocumentPath=Project Outputs for Module1\Module1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Module1\Module1.G1
+DocumentPath=Project Outputs for Module1\Module1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Module1\Module1.G2
+DocumentPath=Project Outputs for Module1\Module1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Module1\Module1.GBL
+DocumentPath=Project Outputs for Module1\Module1.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Module1\Module1.GBO
+DocumentPath=Project Outputs for Module1\Module1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Module1\Module1.GBP
+DocumentPath=Project Outputs for Module1\Module1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Module1\Module1.GBS
+DocumentPath=Project Outputs for Module1\Module1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Module1\Module1.GM
+DocumentPath=Project Outputs for Module1\Module1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Module1\Module1.GTL
+DocumentPath=Project Outputs for Module1\Module1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Module1\Module1.GTO
+DocumentPath=Project Outputs for Module1\Module1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Module1\Module1.GTP
+DocumentPath=Project Outputs for Module1\Module1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Module1\Module1.GTS
+DocumentPath=Project Outputs for Module1\Module1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Module1\Module1.LDP
+DocumentPath=Project Outputs for Module1\Module1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Module1\Module1.REP
+DocumentPath=Project Outputs for Module1\Module1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for Module1\Module1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Module1\Module1.TXT
 DItemRevisionGUID=
 

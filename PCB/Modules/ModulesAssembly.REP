@@ -1,0 +1,14 @@
+*************************************************************
+FileName = ModulesAssembly.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : ModulesAssembly.GM100
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+*************************************************************
+

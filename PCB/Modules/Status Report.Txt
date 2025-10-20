@@ -1,0 +1,14 @@
+Source PCB Design ModulesAssembly.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[ModulesAssembly.GM100]
+   Generated File[ModulesAssembly.EXTREP]
+   Generated File[ModulesAssembly.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:39:31 On 20.10.2025
